@@ -18,7 +18,7 @@ This is a two-semester-long course primarily designed for graduate students. How
     * Domain Adaptation ([Lecture Notes](01%20-%20Computer%20Vision/01%20-%20Image%20Classification/07%20-%20Domain%20Adaptation.pdf))
     * Few Shot Learning ([Lecture Notes](01%20-%20Computer%20Vision/01%20-%20Image%20Classification/08%20-%20Few%20Shot%20Learning.pdf))
     * Federated Learning ([Lecture Notes](01%20-%20Computer%20Vision/01%20-%20Image%20Classification/09%20-%20Federated%20Learning.pdf))
-    * Self-training & Contrastive Learning ([Lecture Notes](01%20-%20Computer%20Vision/01%20-%20Image%20Classification/10%20-%20Contrastive%20Learning.pdf))
+    * Self-training & Contrastive Learning ([Lecture Notes](01%20-%20Computer%20Vision/01%20-%20Image%20Classification/10%20-%20Self-training%20%26%20Contrastive%20Learning.pdf))
   * Image Transformation
     * Semantic Segmentation ([Lecture Notes](01%20-%20Computer%20Vision/02%20-%20Image%20Transformation/01%20-%20Semantic%20Segmentation.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkh9JAoKa9TwO2LufHYdQSz))
     * Super-Resolution, Denoising, Colorization, and Depth Estimation ([Lecture Notes](01%20-%20Computer%20Vision/02%20-%20Image%20Transformation/02%20-%20Super-Resolution%2C%20Denoising%2C%20Colorization%2C%20and%20Depth%20Estimation.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNl6RQNFrHnxNWzq3Byy8bAd))
