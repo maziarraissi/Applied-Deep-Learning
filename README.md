@@ -43,3 +43,6 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Reinforcement Learning ([Lecture Notes](06%20-%20Reinforcement%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNl3yOJUx5oCmhCG_7Xu1Uml))
 * Graph Neural Networks ([Lecture Notes](07%20-%20Graph%20Neural%20Networks.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnbzENK14asgbwIGmNGvdC_))
 * Recommender Systems ([Lecture Notes](08%20-%20Recommender%20Systems.pdf))
+
+# References
+* An overview of gradient descent optimization algorithms
