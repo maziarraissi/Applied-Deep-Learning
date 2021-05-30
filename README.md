@@ -173,6 +173,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Deep Face Recognition
 * Deep Learning Face Attributes in the Wild
 * Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks
+* A Discriminative Feature Learning Approach for Deep Face Recognition
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition
 ## Computer Vision; Video
 * 3D Convolutional Neural Networks for Human Action Recognition
