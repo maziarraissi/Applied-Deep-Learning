@@ -157,6 +157,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
 * R-FCN: Object Detection via Region-based Fully Convolutional Networks
 * Feature Pyramid Networks for Object Detection
+* Deformable Convolutional Networks
 * Mask R-CNN
 ## Computer Vision; Object Detection; One Stage Detectors
 * OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
