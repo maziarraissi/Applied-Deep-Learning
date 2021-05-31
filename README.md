@@ -191,6 +191,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space
 * Dynamic Graph CNN for Learning on Point Clouds
 ## Natural Language Processing; Word Representations
+* Linguistic Regularities in Continuous Space Word Representations
 * Distributed Representations of Words and Phrases and their Compositionality
 * Efficient Estimation of Word Representations in Vector Space
 * GloVe: Global Vectors for Word Representation
