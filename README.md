@@ -88,6 +88,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Learning Transferable Architectures for Scalable Image Recognition
 * Regularized Evolution for Image Classifier Architecture Search
 * Evolving Deep Neural Networks
+* Efficient Neural Architecture Search via Parameter Sharing
 * DARTS: Differentiable Architecture Search
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 * MnasNet: Platform-Aware Neural Architecture Search for Mobile
