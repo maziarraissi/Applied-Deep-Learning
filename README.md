@@ -64,6 +64,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Aggregated Residual Transformations for Deep Neural Networks
 * Densely Connected Convolutional Networks
 * Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
+* mixup: Beyond Empirical Risk Minimization
 * Squeeze-and-Excitation Networks
 * CBAM: Convolutional Block Attention Module
 * Random Erasing Data Augmentation
