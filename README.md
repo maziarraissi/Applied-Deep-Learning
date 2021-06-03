@@ -104,6 +104,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * One Pixel Attack for Fooling Deep Neural Networks
 ## Computer Vision; Image Classification; Visualizing & Understanding
 * Visualizing and Understanding Convolutional Networks
+* Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps
 * “Why Should I Trust You?” Explaining the Predictions of Any Classifier
 * Learning Deep Features for Discriminative Localization
 * Understanding Deep Learning Requires Rethinking Generalization
