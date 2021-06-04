@@ -188,6 +188,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset
 * Non-local Neural Networks
 * Group Normalization
+* Fully-Convolutional Siamese Networks for Object Tracking
 * Robust Consistent Video Depth Estimation
 ## Computer Vision; 3D
 * V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation
