@@ -121,6 +121,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 ## Computer Vision; Image Classification; Few-shot Learning
 * Matching Networks for One Shot Learning
 * Prototypical Networks for Few-shot Learning
+* Learning to Compare: Relation Network for Few-Shot Learning
 ## Computer Vision; Image Classification; Federated Learning
 * Communication-Efficient Learning of Deep Networks from Decentralized Data
 ## Computer Vision; Image Classification; Self-training & Contrastive Learning
