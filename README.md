@@ -21,7 +21,8 @@ This is a two-semester-long course primarily designed for graduate students. How
     * Self-training & Contrastive Learning ([Lecture Notes](01%20-%20Computer%20Vision/01%20-%20Image%20Classification/10%20-%20Self-training%20%26%20Contrastive%20Learning.pdf))
   * Image Transformation
     * Semantic Segmentation ([Lecture Notes](01%20-%20Computer%20Vision/02%20-%20Image%20Transformation/01%20-%20Semantic%20Segmentation.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkh9JAoKa9TwO2LufHYdQSz))
-    * Super-Resolution, Denoising, Colorization, and Depth Estimation ([Lecture Notes](01%20-%20Computer%20Vision/02%20-%20Image%20Transformation/02%20-%20Super-Resolution%2C%20Denoising%2C%20Colorization%2C%20and%20Depth%20Estimation.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNl6RQNFrHnxNWzq3Byy8bAd))
+    * Super-Resolution, Denoising, and Colorization ([Lecture Notes](01%20-%20Computer%20Vision/02%20-%20Image%20Transformation/02%20-%20Super-Resolution%2C%20Denoising%2C%20and%20Colorization.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNl6RQNFrHnxNWzq3Byy8bAd))
+    * Optical Flow and Depth Estimation ([Lecture Notes](01%20-%20Computer%20Vision/02%20-%20Image%20Transformation/04%20-%20Optical%20Flow%20and%20Depth%20Estimation.pdf))
     * Pose Estimation ([Lecture Notes](01%20-%20Computer%20Vision/02%20-%20Image%20Transformation/03%20-%20Pose%20Estimation.pdf))
   * Object Detection
     * Two Stage Detectors ([Lecture Notes](01%20-%20Computer%20Vision/03%20-%20Object%20Detection/01%20-%20Two%20Stage%20Detectors.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNm18TPHIYm3t2CLIqxLxzYD))
@@ -142,7 +143,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
 * Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
 * Dual Attention Network for Scene Segmentation
-## Computer Vision; Image Transformation; Super-Resolution, Denoising, Colorization, and Depth Estimation
+## Computer Vision; Image Transformation; Super-Resolution, Denoising, and Colorization
 * Learning a Deep Convolutional Network for Image Super-Resolution
 * Perceptual Losses for Real-Time Style Transfer and Super-Resolution
 * Image Style Transfer Using Convolutional Neural Networks
@@ -151,6 +152,8 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising
 * Enhanced Deep Residual Networks for Single Image Super-Resolution
 * The Unreasonable Effectiveness of Deep Features as a Perceptual Metric
+## Computer Vision; Image Transformation; Optical Flow and Depth Estimation
+* FlowNet: Learning Optical Flow with Convolutional Networks
 ## Computer Vision; Pose Estimation
 * Stacked Hourglass Networks for Human Pose Estimation
 * Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
