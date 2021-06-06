@@ -22,8 +22,8 @@ This is a two-semester-long course primarily designed for graduate students. How
   * Image Transformation
     * Semantic Segmentation ([Lecture Notes](01%20-%20Computer%20Vision/02%20-%20Image%20Transformation/01%20-%20Semantic%20Segmentation.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkh9JAoKa9TwO2LufHYdQSz))
     * Super-Resolution, Denoising, and Colorization ([Lecture Notes](01%20-%20Computer%20Vision/02%20-%20Image%20Transformation/02%20-%20Super-Resolution%2C%20Denoising%2C%20and%20Colorization.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNl6RQNFrHnxNWzq3Byy8bAd))
-    * Optical Flow and Depth Estimation ([Lecture Notes](01%20-%20Computer%20Vision/02%20-%20Image%20Transformation/04%20-%20Optical%20Flow%20and%20Depth%20Estimation.pdf))
     * Pose Estimation ([Lecture Notes](01%20-%20Computer%20Vision/02%20-%20Image%20Transformation/03%20-%20Pose%20Estimation.pdf))
+    * Optical Flow and Depth Estimation ([Lecture Notes](01%20-%20Computer%20Vision/02%20-%20Image%20Transformation/04%20-%20Optical%20Flow%20and%20Depth%20Estimation.pdf))
   * Object Detection
     * Two Stage Detectors ([Lecture Notes](01%20-%20Computer%20Vision/03%20-%20Object%20Detection/01%20-%20Two%20Stage%20Detectors.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNm18TPHIYm3t2CLIqxLxzYD))
     * One Stage Detectors ([Lecture Notes](01%20-%20Computer%20Vision/03%20-%20Object%20Detection/02%20-%20One%20Stage%20Detectors.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlDc-55lDiKpBb5wUZ_oHqO))
@@ -152,11 +152,11 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising
 * Enhanced Deep Residual Networks for Single Image Super-Resolution
 * The Unreasonable Effectiveness of Deep Features as a Perceptual Metric
-## Computer Vision; Image Transformation; Optical Flow and Depth Estimation
-* FlowNet: Learning Optical Flow with Convolutional Networks
 ## Computer Vision; Pose Estimation
 * Stacked Hourglass Networks for Human Pose Estimation
 * Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
+## Computer Vision; Image Transformation; Optical Flow and Depth Estimation
+* FlowNet: Learning Optical Flow with Convolutional Networks
 ## Computer Vision; Object Detection; Two Stage Detectors
 * A Survey on Performance Metrics for Object-Detection Algorithms
 * Rich feature hierarchies for accurate object detection and semantic segmentation
