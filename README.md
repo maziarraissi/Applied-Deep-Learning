@@ -78,10 +78,10 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Distilling the Knowledge in a Neural Network
 * Learning both Weights and Connections for Efficient Neural Networks
 * Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding
-* SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size
-* XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks
+* SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size ([code](https://github.com/forresti/SqueezeNet))
+* XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks 
 * MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
-* Xception: Deep Learning with Depthwise Separable Convolutions
+* Xception: Deep Learning with Depthwise Separable Convolutions ([code](https://keras.io/api/applications/#xception))
 * MobileNetV2: Inverted Residuals and Linear Bottlenecks
 * ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
 ## Computer Vision; Image Classification; AutoML
