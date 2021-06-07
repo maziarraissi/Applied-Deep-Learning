@@ -157,6 +157,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
 ## Computer Vision; Image Transformation; Optical Flow and Depth Estimation
 * FlowNet: Learning Optical Flow with Convolutional Networks
+* FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
 ## Computer Vision; Object Detection; Two Stage Detectors
 * A Survey on Performance Metrics for Object-Detection Algorithms
 * Rich feature hierarchies for accurate object detection and semantic segmentation
