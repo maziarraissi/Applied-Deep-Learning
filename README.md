@@ -85,14 +85,14 @@ This is a two-semester-long course primarily designed for graduate students. How
 * MobileNetV2: Inverted Residuals and Linear Bottlenecks
 * ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
 ## Computer Vision; Image Classification; AutoML
-* Neural Architecture Search With Reinforcement Learning
-* Learning Transferable Architectures for Scalable Image Recognition
-* Regularized Evolution for Image Classifier Architecture Search
-* Evolving Deep Neural Networks
+* Neural Architecture Search With Reinforcement Learning ([code](https://github.com/tensorflow/models))
+* Learning Transferable Architectures for Scalable Image Recognition 
+* Regularized Evolution for Image Classifier Architecture Search ([code](https://github.com/google-research/google-research/tree/master/evolution/regularized_evolution_algorithm))
+* Evolving Deep Neural Networks 
 * Efficient Neural Architecture Search via Parameter Sharing
-* DARTS: Differentiable Architecture Search
-* EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
-* MnasNet: Platform-Aware Neural Architecture Search for Mobile
+* DARTS: Differentiable Architecture Search ([code](https://github.com/quark0/darts))
+* EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks ([code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet))
+* MnasNet: Platform-Aware Neural Architecture Search for Mobile ([code](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet))
 ## Computer Vision; Image Classification; Robustness
 * Intriguing properties of neural networks
 * Explaining and harnessing adversarial examples
