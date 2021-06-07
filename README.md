@@ -50,30 +50,30 @@ This is a two-semester-long course primarily designed for graduate students. How
 * An overview of gradient descent optimization algorithms
 ## Computer Vision; Image Classification; Large Networks
 * Multi-column Deep Neural Networks for Image Classification
-* ImageNet Classification with Deep Convolutional Neural Networks
-* Dropout: A Simple Way to Prevent Neural Networks from Overfitting
+* ImageNet Classification with Deep Convolutional Neural Networks ([code](https://code.google.com/archive/p/cuda-convnet/))
+* Dropout: A Simple Way to Prevent Neural Networks from Overfitting ([code](http://www.cs.toronto.edu/~nitish/dropout/))
 * Network In Network
-* Very Deep Convolutional Networks for Large-Scale Image Recognition
+* Very Deep Convolutional Networks for Large-Scale Image Recognition ([code](https://www.robots.ox.ac.uk/~vgg/research/very_deep/))
 * Going Deeper with Convolutions
 * Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 * Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
 * Rethinking the Inception Architecture for Computer Vision
 * Training Very Deep Networks
 * Deep Residual Learning for Image Recognition
-* Identity Mappings in Deep Residual Networks
-* Wide Residual Networks
-* Aggregated Residual Transformations for Deep Neural Networks
+* Identity Mappings in Deep Residual Networks ([code](https://github.com/KaimingHe/resnet-1k-layers))
+* Wide Residual Networks ([code](https://github.com/szagoruyko/wide-residual-networks))
+* Aggregated Residual Transformations for Deep Neural Networks ([code](https://github.com/facebookresearch/ResNeXt))
 * Densely Connected Convolutional Networks
 * Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
-* mixup: Beyond Empirical Risk Minimization
-* Squeeze-and-Excitation Networks
+* mixup: Beyond Empirical Risk Minimization ([code](https://github.com/facebookresearch/mixup-cifar10))
+* Squeeze-and-Excitation Networks ([code](https://github.com/hujie-frank/SENet))
 * CBAM: Convolutional Block Attention Module
-* Random Erasing Data Augmentation
+* Random Erasing Data Augmentation ([code](https://github.com/zhunzhong07/Random-Erasing))
 * Spatial Transformer Networks
-* Dynamic Routing Between Capsules
-* An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
-* MLP-Mixer: An all-MLP Architecture for Vision
-* High-Performance Large-Scale Image Recognition Without Normalization
+* Dynamic Routing Between Capsules 
+* An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale ([code](https://github.com/google-research/vision_transformer))
+* MLP-Mixer: An all-MLP Architecture for Vision ([code](https://github.com/google-research/vision_transformer))
+* High-Performance Large-Scale Image Recognition Without Normalization ([code](https://github.com/deepmind/deepmind-research/tree/master/nfnets))
 ## Computer Vision; Image Classification; Small Networks
 * Distilling the Knowledge in a Neural Network
 * Learning both Weights and Connections for Efficient Neural Networks
