@@ -144,39 +144,39 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation ([code](https://github.com/tensorflow/models/tree/master/research/deeplab))
 * Dual Attention Network for Scene Segmentation ([code](https://github.com/junfu1115/DANet/))
 ## Computer Vision; Image Transformation; Super-Resolution, Denoising, and Colorization
-* Learning a Deep Convolutional Network for Image Super-Resolution
-* Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+* Learning a Deep Convolutional Network for Image Super-Resolution ([code](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html))
+* Perceptual Losses for Real-Time Style Transfer and Super-Resolution 
 * Image Style Transfer Using Convolutional Neural Networks
 * Accurate Image Super-Resolution Using Very Deep Convolutional Networks
 * Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network
-* Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising
-* Enhanced Deep Residual Networks for Single Image Super-Resolution
-* The Unreasonable Effectiveness of Deep Features as a Perceptual Metric
+* Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising ([code](https://github.com/cszn/DnCNN))
+* Enhanced Deep Residual Networks for Single Image Super-Resolution ([code](https://github.com/LimBee/NTIRE2017))
+* The Unreasonable Effectiveness of Deep Features as a Perceptual Metric ([code](https://github.com/richzhang/PerceptualSimilarity))
 ## Computer Vision; Pose Estimation
 * Stacked Hourglass Networks for Human Pose Estimation
 * Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
 ## Computer Vision; Image Transformation; Optical Flow and Depth Estimation
 * FlowNet: Learning Optical Flow with Convolutional Networks
-* FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
+* FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ([code](https://github.com/lmb-freiburg/flownet2))
 ## Computer Vision; Object Detection; Two Stage Detectors
-* A Survey on Performance Metrics for Object-Detection Algorithms
-* Rich feature hierarchies for accurate object detection and semantic segmentation
+* A Survey on Performance Metrics for Object-Detection Algorithms ([code](https://github.com/rafaelpadilla/Object-Detection-Metrics))
+* Rich feature hierarchies for accurate object detection and semantic segmentation ([code](https://github.com/rbgirshick/rcnn))
 * Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
-* Fast R-CNN
-* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
-* R-FCN: Object Detection via Region-based Fully Convolutional Networks
+* Fast R-CNN ([code](https://github.com/rbgirshick/fast-rcnn))
+* Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks ([code](https://github.com/ShaoqingRen/faster_rcnn))
+* R-FCN: Object Detection via Region-based Fully Convolutional Networks ([code](https://github.com/daijifeng001/r-fcn))
 * Feature Pyramid Networks for Object Detection
-* Deformable Convolutional Networks
+* Deformable Convolutional Networks ([code](https://github.com/msracver/Deformable-ConvNets))
 * Mask R-CNN
 ## Computer Vision; Object Detection; One Stage Detectors
-* OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks
-* You Only Look Once: Unified, Real-Time Object Detection
-* SSD: Single Shot MultiBox Detector
-* YOLO9000: Better, Faster, Stronger
-* Focal Loss for Dense Object Detection
+* OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks ([code](https://github.com/sermanet/OverFeat))
+* You Only Look Once: Unified, Real-Time Object Detection ([code](https://pjreddie.com/darknet/yolov1/))
+* SSD: Single Shot MultiBox Detector ([code](https://github.com/weiliu89/caffe/tree/ssd))
+* YOLO9000: Better, Faster, Stronger ([code](https://pjreddie.com/darknet/yolov2/))
+* Focal Loss for Dense Object Detection 
 * Speed/Accuracy Trade-Offs For Modern Convolutional Object Detectors
-* YOLOv3: An Incremental Improvement
-* End-to-End Object Detection with Transformers
+* YOLOv3: An Incremental Improvement ([code](https://pjreddie.com/darknet/yolo/))
+* End-to-End Object Detection with Transformers ([code](https://github.com/facebookresearch/detr))
 ## Computer Vision; Face Recognition and Detection
 * DeepFace: Closing the Gap to Human-Level Performance in Face Verification
 * FaceNet: A Unified Embedding for Face Recognition and Clustering
@@ -184,21 +184,21 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Deep Learning Face Attributes in the Wild
 * Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks
 * A Discriminative Feature Learning Approach for Deep Face Recognition
-* ArcFace: Additive Angular Margin Loss for Deep Face Recognition
+* ArcFace: Additive Angular Margin Loss for Deep Face Recognition ([code](https://github.com/deepinsight/insightface))
 ## Computer Vision; Video
 * 3D Convolutional Neural Networks for Human Action Recognition
-* Large-scale Video Classification with Convolutional Neural Networks
+* Large-scale Video Classification with Convolutional Neural Networks ([code](https://cs.stanford.edu/people/karpathy/deepvideo/))
 * Two-Stream Convolutional Networks for Action Recognition in Videos
-* Learning Spatiotemporal Features with 3D Convolutional Networks
-* Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors
+* Learning Spatiotemporal Features with 3D Convolutional Networks ([code](https://github.com/facebookarchive/C3D))
+* Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors ([code](https://github.com/wanglimin/tdd/))
 * Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset
 * Non-local Neural Networks
-* Group Normalization
+* Group Normalization ([code](https://github.com/facebookresearch/Detectron/tree/master/projects/GN))
 * Fully-Convolutional Siamese Networks for Object Tracking
-* Robust Consistent Video Depth Estimation
+* Robust Consistent Video Depth Estimation ([code](https://robust-cvd.github.io))
 ## Computer Vision; 3D
-* V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation
-* PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
+* V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation ([code](https://github.com/faustomilletari/VNet))
+* PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation 
 * PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space
 * Dynamic Graph CNN for Learning on Point Clouds
 ## Natural Language Processing; Word Representations
