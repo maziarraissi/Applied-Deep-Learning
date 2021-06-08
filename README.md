@@ -131,18 +131,18 @@ This is a two-semester-long course primarily designed for graduate students. How
 * A Simple Framework for Contrastive Learning of Visual Representations ([code](https://github.com/google-research/simclr))
 * Momentum Contrast for Unsupervised Visual Representation Learning ([code](https://github.com/facebookresearch/moco))
 ## Computer Vision; Image Transformation; Semantic Segmentation
-* Fully Convolutional Networks for Semantic Segmentation
+* Fully Convolutional Networks for Semantic Segmentation ([code](https://github.com/shelhamer/fcn.berkeleyvision.org))
 * Learning Deconvolution Network for Semantic Segmentation
-* U-Net: Convolutional Networks for Biomedical Image Segmentation
-* DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs
-* Multi-scale Context Aggregation by Dilated Convolutions
+* U-Net: Convolutional Networks for Biomedical Image Segmentation ([code](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/))
+* DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs ([code](http://liangchiehchen.com/projects/DeepLab.html))
+* Multi-scale Context Aggregation by Dilated Convolutions ([code](https://github.com/fyu/dilation))
 * SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
-* Pyramid Scene Parsing Network
+* Pyramid Scene Parsing Network ([code](https://github.com/hszhao/PSPNet))
 * Rethinking Atrous Convolution for Semantic Image Segmentation
 * What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?
-* RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation
-* Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
-* Dual Attention Network for Scene Segmentation
+* RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation ([code](https://github.com/guosheng/refinenet))
+* Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation ([code](https://github.com/tensorflow/models/tree/master/research/deeplab))
+* Dual Attention Network for Scene Segmentation ([code](https://github.com/junfu1115/DANet/))
 ## Computer Vision; Image Transformation; Super-Resolution, Denoising, and Colorization
 * Learning a Deep Convolutional Network for Image Super-Resolution
 * Perceptual Losses for Real-Time Style Transfer and Super-Resolution
