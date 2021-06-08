@@ -59,15 +59,15 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
 * Rethinking the Inception Architecture for Computer Vision
 * Training Very Deep Networks
-* Deep Residual Learning for Image Recognition
+* Deep Residual Learning for Image Recognition ([code](https://github.com/KaimingHe/deep-residual-networks))
 * Identity Mappings in Deep Residual Networks ([code](https://github.com/KaimingHe/resnet-1k-layers))
 * Wide Residual Networks ([code](https://github.com/szagoruyko/wide-residual-networks))
 * Aggregated Residual Transformations for Deep Neural Networks ([code](https://github.com/facebookresearch/ResNeXt))
-* Densely Connected Convolutional Networks
+* Densely Connected Convolutional Networks ([code](https://github.com/liuzhuang13/DenseNet))
 * Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
 * mixup: Beyond Empirical Risk Minimization ([code](https://github.com/facebookresearch/mixup-cifar10))
 * Squeeze-and-Excitation Networks ([code](https://github.com/hujie-frank/SENet))
-* CBAM: Convolutional Block Attention Module
+* CBAM: Convolutional Block Attention Module ([code](https://github.com/Jongchan/attention-module))
 * Random Erasing Data Augmentation ([code](https://github.com/zhunzhong07/Random-Erasing))
 * Spatial Transformer Networks
 * Dynamic Routing Between Capsules 
@@ -77,19 +77,19 @@ This is a two-semester-long course primarily designed for graduate students. How
 ## Computer Vision; Image Classification; Small Networks
 * Distilling the Knowledge in a Neural Network
 * Learning both Weights and Connections for Efficient Neural Networks
-* Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding
+* Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding ([code](https://github.com/songhan/Deep-Compression-AlexNet))
 * SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size ([code](https://github.com/forresti/SqueezeNet))
-* XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks 
-* MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+* XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks ([code](https://github.com/allenai/XNOR-Net))
+* MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications ([code](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet))
 * Xception: Deep Learning with Depthwise Separable Convolutions ([code](https://keras.io/api/applications/#xception))
-* MobileNetV2: Inverted Residuals and Linear Bottlenecks
-* ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+* MobileNetV2: Inverted Residuals and Linear Bottlenecks ([code](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet))
+* ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices ([code](https://github.com/megvii-model/ShuffleNet-Series))
 ## Computer Vision; Image Classification; AutoML
 * Neural Architecture Search With Reinforcement Learning ([code](https://github.com/tensorflow/models))
 * Learning Transferable Architectures for Scalable Image Recognition 
 * Regularized Evolution for Image Classifier Architecture Search ([code](https://github.com/google-research/google-research/tree/master/evolution/regularized_evolution_algorithm))
 * Evolving Deep Neural Networks 
-* Efficient Neural Architecture Search via Parameter Sharing
+* Efficient Neural Architecture Search via Parameter Sharing ([code](https://github.com/melodyguan/enas))
 * DARTS: Differentiable Architecture Search ([code](https://github.com/quark0/darts))
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks ([code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet))
 * MnasNet: Platform-Aware Neural Architecture Search for Mobile ([code](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet))
@@ -122,7 +122,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Adversarial Discriminative Domain Adaptation
 ## Computer Vision; Image Classification; Few-shot Learning
 * Matching Networks for One Shot Learning
-* Prototypical Networks for Few-shot Learning
+* Prototypical Networks for Few-shot Learning ([code](https://github.com/jakesnell/prototypical-networks))
 * Learning to Compare: Relation Network for Few-Shot Learning
 ## Computer Vision; Image Classification; Federated Learning
 * Communication-Efficient Learning of Deep Networks from Decentralized Data
@@ -132,7 +132,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Momentum Contrast for Unsupervised Visual Representation Learning ([code](https://github.com/facebookresearch/moco))
 ## Computer Vision; Image Transformation; Semantic Segmentation
 * Fully Convolutional Networks for Semantic Segmentation ([code](https://github.com/shelhamer/fcn.berkeleyvision.org))
-* Learning Deconvolution Network for Semantic Segmentation
+* Learning Deconvolution Network for Semantic Segmentation ([code](https://github.com/HyeonwooNoh/DeconvNet))
 * U-Net: Convolutional Networks for Biomedical Image Segmentation ([code](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/))
 * DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs ([code](http://liangchiehchen.com/projects/DeepLab.html))
 * Multi-scale Context Aggregation by Dilated Convolutions ([code](https://github.com/fyu/dilation))
@@ -146,15 +146,15 @@ This is a two-semester-long course primarily designed for graduate students. How
 ## Computer Vision; Image Transformation; Super-Resolution, Denoising, and Colorization
 * Learning a Deep Convolutional Network for Image Super-Resolution ([code](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html))
 * Perceptual Losses for Real-Time Style Transfer and Super-Resolution 
-* Image Style Transfer Using Convolutional Neural Networks
-* Accurate Image Super-Resolution Using Very Deep Convolutional Networks
+* Image Style Transfer Using Convolutional Neural Networks ([code](https://github.com/leongatys/PytorchNeuralStyleTransfer))
+* Accurate Image Super-Resolution Using Very Deep Convolutional Networks ([code](https://cv.snu.ac.kr/research/VDSR/))
 * Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network
 * Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising ([code](https://github.com/cszn/DnCNN))
 * Enhanced Deep Residual Networks for Single Image Super-Resolution ([code](https://github.com/LimBee/NTIRE2017))
 * The Unreasonable Effectiveness of Deep Features as a Perceptual Metric ([code](https://github.com/richzhang/PerceptualSimilarity))
 ## Computer Vision; Pose Estimation
-* Stacked Hourglass Networks for Human Pose Estimation
-* Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields
+* Stacked Hourglass Networks for Human Pose Estimation ([code](https://github.com/princeton-vl/pytorch_stacked_hourglass))
+* Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields ([code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation))
 ## Computer Vision; Image Transformation; Optical Flow and Depth Estimation
 * FlowNet: Learning Optical Flow with Convolutional Networks
 * FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ([code](https://github.com/lmb-freiburg/flownet2))
@@ -167,7 +167,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * R-FCN: Object Detection via Region-based Fully Convolutional Networks ([code](https://github.com/daijifeng001/r-fcn))
 * Feature Pyramid Networks for Object Detection
 * Deformable Convolutional Networks ([code](https://github.com/msracver/Deformable-ConvNets))
-* Mask R-CNN
+* Mask R-CNN ([code](https://github.com/facebookresearch/detectron2))
 ## Computer Vision; Object Detection; One Stage Detectors
 * OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks ([code](https://github.com/sermanet/OverFeat))
 * You Only Look Once: Unified, Real-Time Object Detection ([code](https://pjreddie.com/darknet/yolov1/))
@@ -182,7 +182,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * FaceNet: A Unified Embedding for Face Recognition and Clustering
 * Deep Face Recognition
 * Deep Learning Face Attributes in the Wild
-* Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks
+* Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks ([code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
 * A Discriminative Feature Learning Approach for Deep Face Recognition
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition ([code](https://github.com/deepinsight/insightface))
 ## Computer Vision; Video
@@ -191,16 +191,16 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Two-Stream Convolutional Networks for Action Recognition in Videos
 * Learning Spatiotemporal Features with 3D Convolutional Networks ([code](https://github.com/facebookarchive/C3D))
 * Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors ([code](https://github.com/wanglimin/tdd/))
-* Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset
-* Non-local Neural Networks
+* Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset ([code](https://github.com/deepmind/kinetics-i3d))
+* Non-local Neural Networks ([code](https://github.com/facebookresearch/video-nonlocal-net))
 * Group Normalization ([code](https://github.com/facebookresearch/Detectron/tree/master/projects/GN))
-* Fully-Convolutional Siamese Networks for Object Tracking
+* Fully-Convolutional Siamese Networks for Object Tracking ([code](https://github.com/bertinetto/cfnet))
 * Robust Consistent Video Depth Estimation ([code](https://robust-cvd.github.io))
 ## Computer Vision; 3D
 * V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation ([code](https://github.com/faustomilletari/VNet))
-* PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation 
-* PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space
-* Dynamic Graph CNN for Learning on Point Clouds
+* PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation ([code](https://github.com/charlesq34/pointnet))
+* PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space ([code](https://github.com/charlesq34/pointnet2))
+* Dynamic Graph CNN for Learning on Point Clouds ([code](https://github.com/WangYueFt/dgcnn))
 ## Natural Language Processing; Word Representations
 * Linguistic Regularities in Continuous Space Word Representations
 * Distributed Representations of Words and Phrases and their Compositionality
