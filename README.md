@@ -107,18 +107,18 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Visualizing and Understanding Convolutional Networks
 * Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps
 * Striving for Simplicity: The All Convolutional Net
-* “Why Should I Trust You?” Explaining the Predictions of Any Classifier
-* Learning Deep Features for Discriminative Localization
+* “Why Should I Trust You?” Explaining the Predictions of Any Classifier ([code](https://github.com/marcotcr/lime-experiments))
+* Learning Deep Features for Discriminative Localization ([code](https://github.com/zhoubolei/CAM))
 * Understanding Deep Learning Requires Rethinking Generalization
-* Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
-* A Unified Approach to Interpreting Model Predictions
+* Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization ([code](https://github.com/ramprs/grad-cam/))
+* A Unified Approach to Interpreting Model Predictions ([code](https://github.com/slundberg/shap))
 ## Computer Vision; Image Classification; Transfer Learning
-* How transferable are features in deep neural networks?
-* DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition
+* How transferable are features in deep neural networks? ([code](https://github.com/yosinski/convnet_transfer))
+* DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition ([code](https://github.com/UCBAIR/decaf-release))
 * CNN Features off-the-shelf: an Astounding Baseline for Recognition
-* Return of the Devil in the Details: Delving Deep into Convolutional Nets
+* Return of the Devil in the Details: Delving Deep into Convolutional Nets ([code](https://www.robots.ox.ac.uk/~vgg/research/deep_eval/#soft))
 ## Computer Vision; Image Classification; Domain Adaptation
-* Domain-Adversarial Training of Neural Networks
+* Domain-Adversarial Training of Neural Networks ([code](https://github.com/ddtm/caffe/tree/grl))
 * Adversarial Discriminative Domain Adaptation
 ## Computer Vision; Image Classification; Few-shot Learning
 * Matching Networks for One Shot Learning
@@ -127,9 +127,9 @@ This is a two-semester-long course primarily designed for graduate students. How
 ## Computer Vision; Image Classification; Federated Learning
 * Communication-Efficient Learning of Deep Networks from Decentralized Data
 ## Computer Vision; Image Classification; Self-training & Contrastive Learning
-* Self-training with Noisy Student improves ImageNet classification
-* A Simple Framework for Contrastive Learning of Visual Representations
-* Momentum Contrast for Unsupervised Visual Representation Learning
+* Self-training with Noisy Student improves ImageNet classification ([code](https://github.com/google-research/noisystudent))
+* A Simple Framework for Contrastive Learning of Visual Representations ([code](https://github.com/google-research/simclr))
+* Momentum Contrast for Unsupervised Visual Representation Learning ([code](https://github.com/facebookresearch/moco))
 ## Computer Vision; Image Transformation; Semantic Segmentation
 * Fully Convolutional Networks for Semantic Segmentation
 * Learning Deconvolution Network for Semantic Segmentation
