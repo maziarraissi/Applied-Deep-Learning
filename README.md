@@ -298,34 +298,34 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Conjugate Gradient Method
 * Mastering the game of Go with deep neural networks and tree search
 * Asynchronous Methods for Deep Reinforcement Learning
-* Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
+* Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning ([code](https://github.com/yaringal/DropoutUncertaintyCaffeModels))
 * Deep Reinforcement Learning with Double Q-Learning
 * End to End Learning for Self-Driving Cars
 * End-To-End Training Of Deep Visuomotor Policies
 * Mastering the game of Go without human knowledge
 * A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play
 * Proximal Policy Optimization Algorithms
-* Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
+* Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks ([code](https://github.com/cbfinn/maml)) ([code](https://github.com/cbfinn/maml_rl))
 * Overcoming catastrophic forgetting in neural networks
 * Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection
-* Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
+* Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor ([code](https://github.com/haarnoja/sac))
 ## Graph Neural Networks
-* DeepWalk: Online Learning of Social Representations
-* LINE: Large-scale Information Network Embedding
-* node2vec: Scalable Feature Learning for Networks
-* Semi-Supervised Classification with Graph Convolutional Networks
-* Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering
-* Inductive Representation Learning on Large Graphs
-* Graph Attention Networks
-* How Powerful Are Graph Neural Networks?
+* DeepWalk: Online Learning of Social Representations ([code](https://github.com/phanein/deepwalk))
+* LINE: Large-scale Information Network Embedding ([code](https://github.com/tangjianpku/LINE))
+* node2vec: Scalable Feature Learning for Networks ([code](http://snap.stanford.edu/node2vec/))
+* Semi-Supervised Classification with Graph Convolutional Networks ([code](https://github.com/tkipf/gcn))
+* Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering ([code](https://github.com/mdeff/cnn_graph))
+* Inductive Representation Learning on Large Graphs ([code](http://snap.stanford.edu/graphsage/))
+* Graph Attention Networks ([code](https://github.com/PetarV-/GAT))
+* How Powerful Are Graph Neural Networks? ([code](https://github.com/weihua916/powerful-gnns))
 ## Recommender Systems
 * Session-based Recommendations with Recurrent Neural Networks
 * AutoRec: Autoencoders Meet Collaborative Filtering
 * Wide & Deep Learning for Recommender Systems
-* Neural Collaborative Filtering
-* Neural Factorization Machines for Sparse Predictive Analytics
+* Neural Collaborative Filtering ([code](https://github.com/hexiangnan/neural_collaborative_filtering))
+* Neural Factorization Machines for Sparse Predictive Analytics ([code](https://github.com/hexiangnan/neural_factorization_machine))
 * DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
-* Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks
-* Variational Autoencoders for Collaborative Filtering
-* Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding
-* Deep Learning Recommendation Model for Personalization and Recommendation Systems
+* Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks ([code](https://github.com/mquad/hgru4rec))
+* Variational Autoencoders for Collaborative Filtering ([code](https://github.com/dawenl/vae_cf))
+* Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding ([code](https://github.com/graytowne/caser))
+* Deep Learning Recommendation Model for Personalization and Recommendation Systems ([code](https://github.com/facebookresearch/dlrm))
