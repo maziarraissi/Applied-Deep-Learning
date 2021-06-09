@@ -209,12 +209,12 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Enriching Word Vectors with Subword Information ([code](https://github.com/facebookresearch/fastText))
 ## Natural Language Processing; Text Classification
 * Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank ([code](https://nlp.stanford.edu/sentiment/))
-* Convolutional Neural Networks for Sentence Classification
+* Convolutional Neural Networks for Sentence Classification ([code](https://github.com/yoonkim/CNN_sentence))
 * Distributed Representations of Sentences and Documents
-* Effective Use of Word Order for Text Categorization with Convolutional Neural Networks
+* Effective Use of Word Order for Text Categorization with Convolutional Neural Networks ([code](https://github.com/riejohnson/ConText))
 * A Convolutional Neural Network for Modelling Sentences
 * A Sensitivity Analysis Of (And Practitioners' Guide To) Convolutional Neural Networks For Sentence Classification
-* Character-level Convolutional Networks for Text Classification
+* Character-level Convolutional Networks for Text Classification ([code](https://github.com/zhangxiangxiao/Crepe))
 * Bag Of Tricks For Efficient Text Classification ([code](https://github.com/facebookresearch/fastText))
 * Hierarchical Attention Networks for Document Classification
 * Neural Architectures For Named Entity Recognition ([code](https://github.com/glample/tagger)) ([code](https://github.com/clab/stack-lstm-ner))
@@ -233,7 +233,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention ([code](https://github.com/idiap/fast-transformers))
 ## Natural Language Processing; Language Modeling
 * Deep contextualized word representations ([code](https://allennlp.org/elmo))
-* Improving Language Understanding by Generative Pre-Training
+* Improving Language Understanding by Generative Pre-Training ([code](https://github.com/openai/finetune-transformer-lm))
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding ([code](https://github.com/google-research/bert))
 * Language Models are Unsupervised Multitask Learners ([code](https://github.com/openai/gpt-2))
 * ALBERT: A Lite BERT for Self-supervised Learning of Language Representations ([code](https://github.com/google-research/ALBERT))
@@ -241,7 +241,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context ([code](https://github.com/kimiyoung/transformer-xl))
 * XLNet: Generalized Autoregressive Pretraining for Language Understanding ([code](https://github.com/zihangdai/xlnet))
 * Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer ([code](https://github.com/google-research/text-to-text-transfer-transformer))
-* Cross-lingual Language Model Pretraining
+* Cross-lingual Language Model Pretraining ([code](https://github.com/facebookresearch/XLM))
 * Language Models are Few-Shot Learners ([code](https://github.com/openai/gpt-3))
 * ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators ([code](https://github.com/google-research/electra))
 * Pay Attention to MLPs
@@ -260,22 +260,22 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Conditional Generative Adversarial Nets
 * Unsupervised representation learning with deep convolutional generative adversarial networks ([code](https://github.com/carpedm20/DCGAN-tensorflow))
 * Improved Techniques for Training GANs ([code](https://github.com/openai/improved-gan))
-* InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
-* Context Encoders: Feature Learning by Inpainting
+* InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets ([code](https://github.com/openai/InfoGAN))
+* Context Encoders: Feature Learning by Inpainting ([code](https://github.com/pathak22/context-encoder))
 * Least Squares Generative Adversarial Networks ([code](https://github.com/xudonmao/LSGAN))
 * Image-to-Image Translation with Conditional Adversarial Networks ([code](https://github.com/phillipi/pix2pix))
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks ([code](https://github.com/junyanz/CycleGAN))
-* Wasserstein GAN
+* Wasserstein GAN ([code](https://github.com/martinarjovsky/WassersteinGAN))
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 * Improved Training of Wasserstein GANs ([code](https://github.com/igul222/improved_wgan_training))
 * Progressive growing of GANs for improved quality, stability, and variation ([code](https://github.com/tkarras/progressive_growing_of_gans))
 * GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium ([code](https://github.com/bioinf-jku/TTUR))
 * Spectral Normalization for Generative Adversarial Networks ([code](https://github.com/pfnet-research/sngan_projection))
-* High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
+* High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs ([code](https://github.com/NVIDIA/pix2pixHD))
 * Large Scale GAN Training for High Fidelity Natural Image Synthesis ([code](https://tfhub.dev/s?q=biggan))
 * A Style-Based Generator Architecture for Generative Adversarial Networks ([code](https://github.com/NVlabs/stylegan))
 * Self-Attention Generative Adversarial Networks ([code](https://github.com/brain-research/self-attention-gan))
-* StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
+* StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation ([code](https://github.com/yunjey/stargan))
 * Analyzing and Improving the Image Quality of StyleGAN ([code](https://github.com/NVlabs/stylegan2))
 ## Speech & Music
 * Mel-Spectrogram and Mel-Frequency Cepstral Coefficients (MFCCs)
