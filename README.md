@@ -204,46 +204,46 @@ This is a two-semester-long course primarily designed for graduate students. How
 ## Natural Language Processing; Word Representations
 * Linguistic Regularities in Continuous Space Word Representations
 * Distributed Representations of Words and Phrases and their Compositionality
-* Efficient Estimation of Word Representations in Vector Space
-* GloVe: Global Vectors for Word Representation
-* Enriching Word Vectors with Subword Information
+* Efficient Estimation of Word Representations in Vector Space ([code](https://code.google.com/archive/p/word2vec/))
+* GloVe: Global Vectors for Word Representation ([code](https://nlp.stanford.edu/projects/glove/))
+* Enriching Word Vectors with Subword Information ([code](https://github.com/facebookresearch/fastText))
 ## Natural Language Processing; Text Classification
-* Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank
+* Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank ([code](https://nlp.stanford.edu/sentiment/))
 * Convolutional Neural Networks for Sentence Classification
 * Distributed Representations of Sentences and Documents
 * Effective Use of Word Order for Text Categorization with Convolutional Neural Networks
 * A Convolutional Neural Network for Modelling Sentences
 * A Sensitivity Analysis Of (And Practitioners' Guide To) Convolutional Neural Networks For Sentence Classification
 * Character-level Convolutional Networks for Text Classification
-* Bag Of Tricks For Efficient Text Classification
+* Bag Of Tricks For Efficient Text Classification ([code](https://github.com/facebookresearch/fastText))
 * Hierarchical Attention Networks for Document Classification
-* Neural Architectures For Named Entity Recognition
-* Universal Language Model Fine-tuning for Text Classification
+* Neural Architectures For Named Entity Recognition ([code](https://github.com/glample/tagger)) ([code](https://github.com/clab/stack-lstm-ner))
+* Universal Language Model Fine-tuning for Text Classification ([code](https://nlp.fast.ai/category/classification.html))
 ## Natural Language Processing; Neural Machine Translation
 * Neural Machine Translation by Jointly Learning to Align and Translate
 * Sequence to Sequence Learning with Neural Networks
 * Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation
 * On the Properties of Neural Machine Translation: Encoder–Decoder Approaches
-* Effective Approaches to Attention-based Neural Machine Translation
-* Neural Machine Translation Of Rare Words With Subword Units
+* Effective Approaches to Attention-based Neural Machine Translation ([code](https://nlp.stanford.edu/projects/nmt/))
+* Neural Machine Translation Of Rare Words With Subword Units ([code](https://github.com/rsennrich/subword-nmt))
 * Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
-* Convolutional Sequence to Sequence Learning
-* Attention Is All You Need
-* Reformer: The Efficient Transformer
-* Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention
+* Convolutional Sequence to Sequence Learning ([code](https://github.com/facebookresearch/fairseq))
+* Attention Is All You Need ([code](https://github.com/tensorflow/tensor2tensor))
+* Reformer: The Efficient Transformer ([code](https://github.com/google/trax/tree/master/trax/models/reformer))
+* Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention ([code](https://github.com/idiap/fast-transformers))
 ## Natural Language Processing; Language Modeling
-* Deep contextualized word representations
+* Deep contextualized word representations ([code](https://allennlp.org/elmo))
 * Improving Language Understanding by Generative Pre-Training
-* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-* Language Models are Unsupervised Multitask Learners
-* ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
-* RoBERTa: A Robustly Optimized BERT Pretraining Approach
-* Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
-* XLNet: Generalized Autoregressive Pretraining for Language Understanding
-* Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding ([code](https://github.com/google-research/bert))
+* Language Models are Unsupervised Multitask Learners ([code](https://github.com/openai/gpt-2))
+* ALBERT: A Lite BERT for Self-supervised Learning of Language Representations ([code](https://github.com/google-research/ALBERT))
+* RoBERTa: A Robustly Optimized BERT Pretraining Approach ([code](https://github.com/pytorch/fairseq))
+* Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context ([code](https://github.com/kimiyoung/transformer-xl))
+* XLNet: Generalized Autoregressive Pretraining for Language Understanding ([code](https://github.com/zihangdai/xlnet))
+* Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer ([code](https://github.com/google-research/text-to-text-transfer-transformer))
 * Cross-lingual Language Model Pretraining
-* Language Models are Few-Shot Learners
-* ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
+* Language Models are Few-Shot Learners ([code](https://github.com/openai/gpt-3))
+* ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators ([code](https://github.com/google-research/electra))
 * Pay Attention to MLPs
 ## Multimodal Learning
 * Long-term Recurrent Convolutional Networks for Visual Recognition and Description
