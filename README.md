@@ -249,47 +249,47 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Long-term Recurrent Convolutional Networks for Visual Recognition and Description
 * Show and Tell: A Neural Image Caption Generator
 * Deep Visual-Semantic Alignments for Generating Image Descriptions
-* Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
+* Show, Attend and Tell: Neural Image Caption Generation with Visual Attention ([code](https://github.com/kelvinxu/arctic-captions))
 * Layer Normalization
-* Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering
-* Zero-Shot Text-to-Image Generation
+* Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering ([code](https://github.com/peteanderson80/bottom-up-attention))
+* Zero-Shot Text-to-Image Generation ([code](https://github.com/openai/DALL-E))
 ## Generative Networks
 * Auto-Encoding Variational Bayes
 * Stochastic Backpropagation and Approximate Inference in Deep Generative Models
-* Generative Adversarial Nets
+* Generative Adversarial Nets ([code](https://github.com/goodfeli/adversarial))
 * Conditional Generative Adversarial Nets
-* Unsupervised representation learning with deep convolutional generative adversarial networks
-* Improved Techniques for Training GANs
+* Unsupervised representation learning with deep convolutional generative adversarial networks ([code](https://github.com/carpedm20/DCGAN-tensorflow))
+* Improved Techniques for Training GANs ([code](https://github.com/openai/improved-gan))
 * InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets
 * Context Encoders: Feature Learning by Inpainting
-* Least Squares Generative Adversarial Networks
-* Image-to-Image Translation with Conditional Adversarial Networks
-* Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+* Least Squares Generative Adversarial Networks ([code](https://github.com/xudonmao/LSGAN))
+* Image-to-Image Translation with Conditional Adversarial Networks ([code](https://github.com/phillipi/pix2pix))
+* Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks ([code](https://github.com/junyanz/CycleGAN))
 * Wasserstein GAN
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
-* Improved Training of Wasserstein GANs
-* Progressive growing of GANs for improved quality, stability, and variation
-* GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium
-* Spectral Normalization for Generative Adversarial Networks
+* Improved Training of Wasserstein GANs ([code](https://github.com/igul222/improved_wgan_training))
+* Progressive growing of GANs for improved quality, stability, and variation ([code](https://github.com/tkarras/progressive_growing_of_gans))
+* GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium ([code](https://github.com/bioinf-jku/TTUR))
+* Spectral Normalization for Generative Adversarial Networks ([code](https://github.com/pfnet-research/sngan_projection))
 * High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
-* Large Scale GAN Training for High Fidelity Natural Image Synthesis
-* A Style-Based Generator Architecture for Generative Adversarial Networks
-* Self-Attention Generative Adversarial Networks
+* Large Scale GAN Training for High Fidelity Natural Image Synthesis ([code](https://tfhub.dev/s?q=biggan))
+* A Style-Based Generator Architecture for Generative Adversarial Networks ([code](https://github.com/NVlabs/stylegan))
+* Self-Attention Generative Adversarial Networks ([code](https://github.com/brain-research/self-attention-gan))
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
-* Analyzing and Improving the Image Quality of StyleGAN
+* Analyzing and Improving the Image Quality of StyleGAN ([code](https://github.com/NVlabs/stylegan2))
 ## Speech & Music
 * Mel-Spectrogram and Mel-Frequency Cepstral Coefficients (MFCCs)
 * Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
 * Speech Recognition with Deep Recurrent Neural Networks
-* Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
+* Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling ([code](https://github.com/jych/librnn))
 * Towards End-to-End Speech Recognition with Recurrent Neural Networks
 * Deep Speech: Scaling up end-to-end speech recognition
 * WaveNet: A Generative Model for Raw Audio
 * LSTM: A Search Space Odyssey
 * Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin
 * SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition
-* Jasper: An End-to-End Convolutional Neural Acoustic Model
-* wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations
+* Jasper: An End-to-End Convolutional Neural Acoustic Model ([code](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition.html))
+* wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations ([code](https://github.com/pytorch/fairseq))
 ## Reinforcement Learning
 * Playing Atari with Deep Reinforcement Learning
 * Human-level Control through Deep Reinforcement Learning
