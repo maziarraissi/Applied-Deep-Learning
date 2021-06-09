@@ -294,7 +294,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Playing Atari with Deep Reinforcement Learning
 * Human-level Control through Deep Reinforcement Learning
 * Continuous Control with Deep Reinforcement Learning
-* Trust Region Policy Optimization
+* Trust Region Policy Optimization ([code](https://github.com/joschu/modular_rl))
 * Conjugate Gradient Method
 * Mastering the game of Go with deep neural networks and tree search
 * Asynchronous Methods for Deep Reinforcement Learning
@@ -319,7 +319,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Graph Attention Networks ([code](https://github.com/PetarV-/GAT))
 * How Powerful Are Graph Neural Networks? ([code](https://github.com/weihua916/powerful-gnns))
 ## Recommender Systems
-* Session-based Recommendations with Recurrent Neural Networks
+* Session-based Recommendations with Recurrent Neural Networks ([code](https://github.com/hidasib/GRU4Rec))
 * AutoRec: Autoencoders Meet Collaborative Filtering
 * Wide & Deep Learning for Recommender Systems
 * Neural Collaborative Filtering ([code](https://github.com/hexiangnan/neural_collaborative_filtering))
