@@ -155,6 +155,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Enhanced Deep Residual Networks for Single Image Super-Resolution ([code](https://github.com/LimBee/NTIRE2017))
 * The Unreasonable Effectiveness of Deep Features as a Perceptual Metric ([code](https://github.com/richzhang/PerceptualSimilarity))
 ## Computer Vision; Pose Estimation
+* Convolutional Pose Machines ([code](https://github.com/CMU-Perceptual-Computing-Lab/convolutional-pose-machines-release))
 * Stacked Hourglass Networks for Human Pose Estimation ([code](https://github.com/princeton-vl/pytorch_stacked_hourglass))
 * Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields ([code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation))
 ## Computer Vision; Image Transformation; Optical Flow and Depth Estimation
