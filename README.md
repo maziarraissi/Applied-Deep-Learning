@@ -158,6 +158,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Convolutional Pose Machines ([code](https://github.com/CMU-Perceptual-Computing-Lab/convolutional-pose-machines-release))
 * Stacked Hourglass Networks for Human Pose Estimation ([code](https://github.com/princeton-vl/pytorch_stacked_hourglass))
 * Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields ([code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation))
+* Deep High-Resolution Representation Learning for Human Pose Estimation ([code](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch))
 ## Computer Vision; Image Transformation; Optical Flow and Depth Estimation
 * FlowNet: Learning Optical Flow with Convolutional Networks
 * FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ([code](https://github.com/lmb-freiburg/flownet2))
