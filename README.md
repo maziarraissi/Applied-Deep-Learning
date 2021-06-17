@@ -85,6 +85,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Xception: Deep Learning with Depthwise Separable Convolutions ([code](https://keras.io/api/applications/#xception))
 * MobileNetV2: Inverted Residuals and Linear Bottlenecks ([code](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet))
 * ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices ([code](https://github.com/megvii-model/ShuffleNet-Series))
+* ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
 ## Computer Vision; Image Classification; AutoML
 * Neural Architecture Search With Reinforcement Learning ([code](https://github.com/tensorflow/models))
 * Learning Transferable Architectures for Scalable Image Recognition 
