@@ -123,6 +123,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 ## Computer Vision; Image Classification; Domain Adaptation
 * Domain-Adversarial Training of Neural Networks ([code](https://github.com/ddtm/caffe/tree/grl))
 * Adversarial Discriminative Domain Adaptation
+* CyCADA: Cycle-Consistent Adversarial Domain Adaptation ([code](https://github.com/jhoffman/cycada_release))
 ## Computer Vision; Image Classification; Few-shot Learning
 * Matching Networks for One Shot Learning
 * Prototypical Networks for Few-shot Learning ([code](https://github.com/jakesnell/prototypical-networks))
