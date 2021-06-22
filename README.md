@@ -182,6 +182,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Focal Loss for Dense Object Detection 
 * Speed/Accuracy Trade-Offs For Modern Convolutional Object Detectors
 * YOLOv3: An Incremental Improvement ([code](https://pjreddie.com/darknet/yolo/))
+* EfficientDet: Scalable and Efficient Object Detection ([code](https://github.com/google/automl/tree/master/efficientdet))
 * YOLOv4: Optimal Speed and Accuracy of Object Detection ([code](https://github.com/AlexeyAB/darknet))
 * End-to-End Object Detection with Transformers ([code](https://github.com/facebookresearch/detr))
 ## Computer Vision; Face Recognition and Detection
