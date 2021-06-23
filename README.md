@@ -174,6 +174,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Feature Pyramid Networks for Object Detection
 * Deformable Convolutional Networks ([code](https://github.com/msracver/Deformable-ConvNets))
 * Mask R-CNN ([code](https://github.com/facebookresearch/detectron2))
+* Cascade R-CNN: Delving into High Quality Object Detection ([code](https://github.com/zhaoweicai/cascade-rcnn))
 ## Computer Vision; Object Detection; One Stage Detectors
 * OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks ([code](https://github.com/sermanet/OverFeat))
 * You Only Look Once: Unified, Real-Time Object Detection ([code](https://pjreddie.com/darknet/yolov1/))
