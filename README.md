@@ -181,7 +181,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * You Only Look Once: Unified, Real-Time Object Detection ([code](https://pjreddie.com/darknet/yolov1/))
 * SSD: Single Shot MultiBox Detector ([code](https://github.com/weiliu89/caffe/tree/ssd))
 * YOLO9000: Better, Faster, Stronger ([code](https://pjreddie.com/darknet/yolov2/))
-* Focal Loss for Dense Object Detection 
+* Focal Loss for Dense Object Detection ([code](https://github.com/facebookresearch/detectron))
 * Speed/Accuracy Trade-Offs For Modern Convolutional Object Detectors
 * YOLOv3: An Incremental Improvement ([code](https://pjreddie.com/darknet/yolo/))
 * FCOS: Fully Convolutional One-Stage Object Detection ([code](https://github.com/tianzhi0549/FCOS/))
