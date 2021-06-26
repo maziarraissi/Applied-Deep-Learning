@@ -245,6 +245,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention ([code](https://github.com/idiap/fast-transformers))
 ## Natural Language Processing; Language Modeling
 * Deep contextualized word representations ([code](https://allennlp.org/elmo))
+* An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling ([code](https://github.com/locuslab/TCN))
 * Improving Language Understanding by Generative Pre-Training ([code](https://github.com/openai/finetune-transformer-lm))
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding ([code](https://github.com/google-research/bert))
 * Language Models are Unsupervised Multitask Learners ([code](https://github.com/openai/gpt-2))
