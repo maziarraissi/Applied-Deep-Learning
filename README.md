@@ -269,6 +269,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 ## Generative Networks
 * Auto-Encoding Variational Bayes
 * Stochastic Backpropagation and Approximate Inference in Deep Generative Models
+* Categorical Reparameterization with Gumbel-Softmax
 * Generative Adversarial Nets ([code](https://github.com/goodfeli/adversarial))
 * Conditional Generative Adversarial Nets
 * Unsupervised representation learning with deep convolutional generative adversarial networks ([code](https://github.com/carpedm20/DCGAN-tensorflow))
