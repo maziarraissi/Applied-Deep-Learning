@@ -140,6 +140,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Learning Deconvolution Network for Semantic Segmentation ([code](https://github.com/HyeonwooNoh/DeconvNet))
 * U-Net: Convolutional Networks for Biomedical Image Segmentation ([code](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/))
 * DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs ([code](http://liangchiehchen.com/projects/DeepLab.html))
+* Conditional Random Fields as Recurrent Neural Networks ([code](https://github.com/torrvision/crfasrnn))
 * Multi-scale Context Aggregation by Dilated Convolutions ([code](https://github.com/fyu/dilation))
 * SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
 * Pyramid Scene Parsing Network ([code](https://github.com/hszhao/PSPNet))
