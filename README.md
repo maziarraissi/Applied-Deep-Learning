@@ -214,6 +214,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation ([code](https://github.com/charlesq34/pointnet))
 * PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space ([code](https://github.com/charlesq34/pointnet2))
 * Dynamic Graph CNN for Learning on Point Clouds ([code](https://github.com/WangYueFt/dgcnn))
+* VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
 ## Natural Language Processing; Word Representations
 * Linguistic Regularities in Continuous Space Word Representations
 * Distributed Representations of Words and Phrases and their Compositionality
