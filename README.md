@@ -258,6 +258,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer ([code](https://github.com/google-research/text-to-text-transfer-transformer))
 * Cross-lingual Language Model Pretraining ([code](https://github.com/facebookresearch/XLM))
 * SpanBERT: Improving Pre-training by Representing and Predicting Spans ([code](https://github.com/facebookresearch/SpanBERT))
+* BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
 * Language Models are Few-Shot Learners ([code](https://github.com/openai/gpt-3))
 * ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators ([code](https://github.com/google-research/electra))
 * Pay Attention to MLPs
