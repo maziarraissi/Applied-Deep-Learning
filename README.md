@@ -283,6 +283,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Least Squares Generative Adversarial Networks ([code](https://github.com/xudonmao/LSGAN))
 * Image-to-Image Translation with Conditional Adversarial Networks ([code](https://github.com/phillipi/pix2pix))
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks ([code](https://github.com/junyanz/CycleGAN))
+* Unsupervised Image-to-Image Translation Networks ([code](https://github.com/mingyuliutw/unit))
 * Wasserstein GAN ([code](https://github.com/martinarjovsky/WassersteinGAN))
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 * Improved Training of Wasserstein GANs ([code](https://github.com/igul222/improved_wgan_training))
