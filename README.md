@@ -270,6 +270,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Layer Normalization
 * Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering ([code](https://github.com/peteanderson80/bottom-up-attention))
 * Generative Adversarial Text to Image Synthesis ([code](https://github.com/reedscot/icml2016))
+* StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks ([code](https://github.com/hanzhanggit/StackGAN))
 * Zero-Shot Text-to-Image Generation ([code](https://github.com/openai/DALL-E))
 ## Generative Networks
 * Auto-Encoding Variational Bayes
