@@ -269,6 +269,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Show, Attend and Tell: Neural Image Caption Generation with Visual Attention ([code](https://github.com/kelvinxu/arctic-captions))
 * Layer Normalization
 * Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering ([code](https://github.com/peteanderson80/bottom-up-attention))
+* Generative Adversarial Text to Image Synthesis ([code](https://github.com/reedscot/icml2016))
 * Zero-Shot Text-to-Image Generation ([code](https://github.com/openai/DALL-E))
 ## Generative Networks
 * Auto-Encoding Variational Bayes
