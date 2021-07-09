@@ -312,6 +312,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin
 * SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition
 * Jasper: An End-to-End Convolutional Neural Acoustic Model ([code](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition.html))
+* Representation Learning with Contrastive Predictive Coding
 * wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations ([code](https://github.com/pytorch/fairseq))
 ## Reinforcement Learning
 * Playing Atari with Deep Reinforcement Learning
