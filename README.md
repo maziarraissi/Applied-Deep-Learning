@@ -333,6 +333,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Overcoming catastrophic forgetting in neural networks
 * Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection
 * Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor ([code](https://github.com/haarnoja/sac))
+* Grandmaster level in StarCraft II using multi-agent reinforcement learning ([code](https://www.nature.com/articles/s41586-019-1724-z#Sec32))
 * Learning Dexterous In-Hand Manipulation
 ## Graph Neural Networks
 * DeepWalk: Online Learning of Social Representations ([code](https://github.com/phanein/deepwalk))
