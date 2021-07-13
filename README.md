@@ -39,7 +39,7 @@ This is a two-semester-long course primarily designed for graduate students. How
   * Neural Machine Translation ([Lecture Notes](02%20-%20Natural%20Language%20Processing/03%20-%20Neural%20Machine%20Translation.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlYq4uIDkbluDVa8_y2obh_))
   * Language Modeling ([Lecture Notes](02%20-%20Natural%20Language%20Processing/04%20-%20Language%20Modeling.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkVn8pKuRu-Ql1zAgVVv3kh))
 * Multimodal Learning ([Lecture Notes](03%20-%20Multimodal%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkCnmkOa9Av0KgEQmVWhMkp))
-* Generative Networks ([Lecture Notes](04%20-%20Generative%20Networks.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnhvhGw4hcKze9KqKCxqMPp))
+* Generative Networks ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnhvhGw4hcKze9KqKCxqMPp))
   * Variational Auto-Encoders ([Lecture Notes](04%20-%20Generative%20Networks/01%20-%20Variational%20Auto-Encoders.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlgs3IByUnTIp6T4uk9vlax))
   * Unconditional GANs ([Lecture Notes](04%20-%20Generative%20Networks/02%20-%20Unconditional%20GANs.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnYMbO5DaypRM-AU_nvJgT2))
   * Conditional GANs ([Lecture Notes](04%20-%20Generative%20Networks/03%20-%20Conditional%20GANs.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlIopdozBBp04xPNJspaaqC))
