@@ -40,6 +40,9 @@ This is a two-semester-long course primarily designed for graduate students. How
   * Language Modeling ([Lecture Notes](02%20-%20Natural%20Language%20Processing/04%20-%20Language%20Modeling.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkVn8pKuRu-Ql1zAgVVv3kh))
 * Multimodal Learning ([Lecture Notes](03%20-%20Multimodal%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkCnmkOa9Av0KgEQmVWhMkp))
 * Generative Networks ([Lecture Notes](04%20-%20Generative%20Networks.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnhvhGw4hcKze9KqKCxqMPp))
+  * Variational Auto-Encoders ([Lecture Notes](04%20-%20Generative%20Networks/01%20-%20Variational%20Auto-Encoders.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlgs3IByUnTIp6T4uk9vlax))
+  * Unconditional GANs ([Lecture Notes](04%20-%20Generative%20Networks/02%20-%20Unconditional%20GANs.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnYMbO5DaypRM-AU_nvJgT2))
+  * Conditional GANs ([Lecture Notes](04%20-%20Generative%20Networks/03%20-%20Conditional%20GANs.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlIopdozBBp04xPNJspaaqC))
 * Speech & Music ([Lecture Notes](05%20-%20Speech%20%26%20Music.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkL5fCXx50MN6nwWvsJgio6))
 * Reinforcement Learning ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNl3yOJUx5oCmhCG_7Xu1Uml))
   * Games ([Lecture Notes](06%20-%20Reinforcement%20Learning/01%20-%20Games.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnYx5EIn3u7eSbYlD3PEL2l))
@@ -278,32 +281,34 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Generative Adversarial Text to Image Synthesis ([code](https://github.com/reedscot/icml2016))
 * StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks ([code](https://github.com/hanzhanggit/StackGAN))
 * Zero-Shot Text-to-Image Generation ([code](https://github.com/openai/DALL-E))
-## Generative Networks
+## Generative Networks; Variational Auto-Encoders
 * Auto-Encoding Variational Bayes
 * Stochastic Backpropagation and Approximate Inference in Deep Generative Models
 * Categorical Reparameterization with Gumbel-Softmax
+## Generative Networks; Unconditional GANs
 * Generative Adversarial Nets ([code](https://github.com/goodfeli/adversarial))
-* Conditional Generative Adversarial Nets
 * Unsupervised representation learning with deep convolutional generative adversarial networks ([code](https://github.com/carpedm20/DCGAN-tensorflow))
 * Improved Techniques for Training GANs ([code](https://github.com/openai/improved-gan))
 * InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets ([code](https://github.com/openai/InfoGAN))
-* Context Encoders: Feature Learning by Inpainting ([code](https://github.com/pathak22/context-encoder))
 * Least Squares Generative Adversarial Networks ([code](https://github.com/xudonmao/LSGAN))
-* Image-to-Image Translation with Conditional Adversarial Networks ([code](https://github.com/phillipi/pix2pix))
-* Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks ([code](https://github.com/junyanz/CycleGAN))
-* Unsupervised Image-to-Image Translation Networks ([code](https://github.com/mingyuliutw/unit))
 * Wasserstein GAN ([code](https://github.com/martinarjovsky/WassersteinGAN))
-* Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 * Improved Training of Wasserstein GANs ([code](https://github.com/igul222/improved_wgan_training))
 * Progressive growing of GANs for improved quality, stability, and variation ([code](https://github.com/tkarras/progressive_growing_of_gans))
 * GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium ([code](https://github.com/bioinf-jku/TTUR))
 * Spectral Normalization for Generative Adversarial Networks ([code](https://github.com/pfnet-research/sngan_projection))
-* High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs ([code](https://github.com/NVIDIA/pix2pixHD))
 * Large Scale GAN Training for High Fidelity Natural Image Synthesis ([code](https://tfhub.dev/s?q=biggan))
 * A Style-Based Generator Architecture for Generative Adversarial Networks ([code](https://github.com/NVlabs/stylegan))
 * Self-Attention Generative Adversarial Networks ([code](https://github.com/brain-research/self-attention-gan))
-* StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation ([code](https://github.com/yunjey/stargan))
 * Analyzing and Improving the Image Quality of StyleGAN ([code](https://github.com/NVlabs/stylegan2))
+## Generative Networks; Conditional GANs
+* Conditional Generative Adversarial Nets
+* Context Encoders: Feature Learning by Inpainting ([code](https://github.com/pathak22/context-encoder))
+* Image-to-Image Translation with Conditional Adversarial Networks ([code](https://github.com/phillipi/pix2pix))
+* Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks ([code](https://github.com/junyanz/CycleGAN))
+* Unsupervised Image-to-Image Translation Networks ([code](https://github.com/mingyuliutw/unit))
+* Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+* High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs ([code](https://github.com/NVIDIA/pix2pixHD))
+* StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation ([code](https://github.com/yunjey/stargan))
 ## Speech & Music
 * Mel-Spectrogram and Mel-Frequency Cepstral Coefficients (MFCCs)
 * Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
