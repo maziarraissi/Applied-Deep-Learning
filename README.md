@@ -41,7 +41,11 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Multimodal Learning ([Lecture Notes](03%20-%20Multimodal%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkCnmkOa9Av0KgEQmVWhMkp))
 * Generative Networks ([Lecture Notes](04%20-%20Generative%20Networks.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnhvhGw4hcKze9KqKCxqMPp))
 * Speech & Music ([Lecture Notes](05%20-%20Speech%20%26%20Music.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkL5fCXx50MN6nwWvsJgio6))
-* Reinforcement Learning ([Lecture Notes](06%20-%20Reinforcement%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNl3yOJUx5oCmhCG_7Xu1Uml))
+* Reinforcement Learning ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNl3yOJUx5oCmhCG_7Xu1Uml))
+  * Games ([Lecture Notes](06%20-%20Reinforcement%20Learning/01%20-%20Games.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnYx5EIn3u7eSbYlD3PEL2l))
+  * Simulated Environments ([Lecture Notes](06%20-%20Reinforcement%20Learning/02%20-%20Simulated%20Environments.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNn0BFiaZIPtj6sp-XeRTPsc))
+  * Real Environments ([Lecture Notes](06%20-%20Reinforcement%20Learning/03%20-%20Real%20Environments.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnUOIsvBSVF4smdtoYdBoFw))
+  * Uncertainty Quantification & Multitask Learning ([Lecture Notes](06%20-%20Reinforcement%20Learning/04%20-%20Uncertainty%20Quantification%20%26%20Multitask%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNn6xHaaojdUSQCgXwvpyxOD))
 * Graph Neural Networks ([Lecture Notes](07%20-%20Graph%20Neural%20Networks.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnbzENK14asgbwIGmNGvdC_))
 * Recommender Systems ([Lecture Notes](08%20-%20Recommender%20Systems.pdf))
 
@@ -314,27 +318,30 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Jasper: An End-to-End Convolutional Neural Acoustic Model ([code](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition.html))
 * Representation Learning with Contrastive Predictive Coding
 * wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations ([code](https://github.com/pytorch/fairseq))
-## Reinforcement Learning
+## Reinforcement Learning; Games
 * Playing Atari with Deep Reinforcement Learning
 * Human-level Control through Deep Reinforcement Learning
+* Deep Reinforcement Learning with Double Q-Learning
+* Mastering the game of Go with deep neural networks and tree search
+* Mastering the game of Go without human knowledge
+* A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play
+* Grandmaster level in StarCraft II using multi-agent reinforcement learning ([code](https://www.nature.com/articles/s41586-019-1724-z#Sec32))
+## Reinforcement Learning; Simulated Environments
 * Continuous Control with Deep Reinforcement Learning
 * Trust Region Policy Optimization ([code](https://github.com/joschu/modular_rl))
 * Conjugate Gradient Method
-* Mastering the game of Go with deep neural networks and tree search
 * Asynchronous Methods for Deep Reinforcement Learning
-* Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning ([code](https://github.com/yaringal/DropoutUncertaintyCaffeModels))
-* Deep Reinforcement Learning with Double Q-Learning
+* Proximal Policy Optimization Algorithms
+* Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor ([code](https://github.com/haarnoja/sac))
+## Reinforcement Learning; Real Environments
 * End to End Learning for Self-Driving Cars
 * End-To-End Training Of Deep Visuomotor Policies
-* Mastering the game of Go without human knowledge
-* A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play
-* Proximal Policy Optimization Algorithms
+* Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection
+* Learning Dexterous In-Hand Manipulation
+## Reinforcement Learning; Uncertainty Quantification & Multitask Learning
+* Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning ([code](https://github.com/yaringal/DropoutUncertaintyCaffeModels))
 * Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks ([code](https://github.com/cbfinn/maml)) ([code](https://github.com/cbfinn/maml_rl))
 * Overcoming catastrophic forgetting in neural networks
-* Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection
-* Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor ([code](https://github.com/haarnoja/sac))
-* Grandmaster level in StarCraft II using multi-agent reinforcement learning ([code](https://www.nature.com/articles/s41586-019-1724-z#Sec32))
-* Learning Dexterous In-Hand Manipulation
 ## Graph Neural Networks
 * DeepWalk: Online Learning of Social Representations ([code](https://github.com/phanein/deepwalk))
 * LINE: Large-scale Information Network Embedding ([code](https://github.com/tangjianpku/LINE))
