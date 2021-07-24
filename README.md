@@ -51,6 +51,7 @@ This is a two-semester-long course primarily designed for graduate students. How
   * Uncertainty Quantification & Multitask Learning ([Lecture Notes](06%20-%20Reinforcement%20Learning/04%20-%20Uncertainty%20Quantification%20%26%20Multitask%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNn6xHaaojdUSQCgXwvpyxOD))
 * Graph Neural Networks ([Lecture Notes](07%20-%20Graph%20Neural%20Networks.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnbzENK14asgbwIGmNGvdC_))
 * Recommender Systems ([Lecture Notes](08%20-%20Recommender%20Systems.pdf))
+* Computational Biology ([Lecture Notes](09%20-%20Computational%20Biology.pdf))
 
 # References
 ## Training Deep Neural Networks
@@ -367,3 +368,5 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Variational Autoencoders for Collaborative Filtering ([code](https://github.com/dawenl/vae_cf))
 * Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding ([code](https://github.com/graytowne/caser))
 * Deep Learning Recommendation Model for Personalization and Recommendation Systems ([code](https://github.com/facebookresearch/dlrm))
+## Computational Biology
+* Improved Protein Structure Prediction using Potentials from Deep Learning ([code](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13))
