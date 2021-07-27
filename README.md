@@ -370,3 +370,4 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Deep Learning Recommendation Model for Personalization and Recommendation Systems ([code](https://github.com/facebookresearch/dlrm))
 ## Computational Biology
 * Improved Protein Structure Prediction using Potentials from Deep Learning ([code](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13))
+* Highly Accurate Protein Structure Prediction with AlphaFold ([code](https://github.com/deepmind/alphafold))
