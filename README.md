@@ -142,6 +142,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Communication-Efficient Learning of Deep Networks from Decentralized Data
 ## Computer Vision; Image Classification; Data-efficient Learning
 * Self-training with Noisy Student improves ImageNet classification ([code](https://github.com/google-research/noisystudent))
+* Deep Clustering for Unsupervised Learning of Visual Features ([code](https://github.com/facebookresearch/deepcluster))
 * A Simple Framework for Contrastive Learning of Visual Representations ([code](https://github.com/google-research/simclr))
 * Momentum Contrast for Unsupervised Visual Representation Learning ([code](https://github.com/facebookresearch/moco))
 * Data-Efficient Image Recognition with Contrastive Predictive Coding
