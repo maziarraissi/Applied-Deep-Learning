@@ -240,6 +240,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * A Convolutional Neural Network for Modelling Sentences
 * A Sensitivity Analysis Of (And Practitioners' Guide To) Convolutional Neural Networks For Sentence Classification
 * Character-level Convolutional Networks for Text Classification ([code](https://github.com/zhangxiangxiao/Crepe))
+* Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks ([code](https://github.com/stanfordnlp/treelstm))
 * Bag Of Tricks For Efficient Text Classification ([code](https://github.com/facebookresearch/fastText))
 * Hierarchical Attention Networks for Document Classification
 * Neural Architectures For Named Entity Recognition ([code](https://github.com/glample/tagger)) ([code](https://github.com/clab/stack-lstm-ner))
