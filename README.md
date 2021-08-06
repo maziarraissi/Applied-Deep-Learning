@@ -308,6 +308,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 ## Generative Networks; Conditional GANs
 * Conditional Generative Adversarial Nets
 * Context Encoders: Feature Learning by Inpainting ([code](https://github.com/pathak22/context-encoder))
+* Conditional Image Synthesis with Auxiliary Classifier GANs
 * Image-to-Image Translation with Conditional Adversarial Networks ([code](https://github.com/phillipi/pix2pix))
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks ([code](https://github.com/junyanz/CycleGAN))
 * Unsupervised Image-to-Image Translation Networks ([code](https://github.com/mingyuliutw/unit))
