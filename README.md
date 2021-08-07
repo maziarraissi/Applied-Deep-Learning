@@ -325,6 +325,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * WaveNet: A Generative Model for Raw Audio
 * LSTM: A Search Space Odyssey
 * Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin
+* X-vectors: Robust DNN Embeddings for Speaker Recognition ([code](https://github.com/kaldi-asr/kaldi/tree/master/egs/sre16/v2))
 * SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition
 * Jasper: An End-to-End Convolutional Neural Acoustic Model ([code](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition.html))
 * Representation Learning with Contrastive Predictive Coding
