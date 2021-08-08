@@ -132,6 +132,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Return of the Devil in the Details: Delving Deep into Convolutional Nets ([code](https://www.robots.ox.ac.uk/~vgg/research/deep_eval/#soft))
 * Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks ([code](https://www.di.ens.fr/willow/research/cnn/))
 ## Computer Vision; Image Classification; Domain Adaptation
+* Learning Transferable Features with Deep Adaptation Networks ([code](https://github.com/thuml/DAN))
 * Domain-Adversarial Training of Neural Networks ([code](https://github.com/ddtm/caffe/tree/grl))
 * Adversarial Discriminative Domain Adaptation
 * CyCADA: Cycle-Consistent Adversarial Domain Adaptation ([code](https://github.com/jhoffman/cycada_release))
