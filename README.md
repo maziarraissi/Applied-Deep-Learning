@@ -356,6 +356,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks ([code](https://github.com/cbfinn/maml)) ([code](https://github.com/cbfinn/maml_rl))
 * Overcoming catastrophic forgetting in neural networks
 ## Graph Neural Networks
+* Translating Embeddings for Modeling Multi-relational Data ([code](https://github.com/glorotxa/SME))
 * DeepWalk: Online Learning of Social Representations ([code](https://github.com/phanein/deepwalk))
 * LINE: Large-scale Information Network Embedding ([code](https://github.com/tangjianpku/LINE))
 * node2vec: Scalable Feature Learning for Networks ([code](http://snap.stanford.edu/node2vec/))
