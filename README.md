@@ -177,6 +177,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields ([code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation))
 * Deep High-Resolution Representation Learning for Human Pose Estimation ([code](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch))
 ## Computer Vision; Image Transformation; Optical Flow and Depth Estimation
+* Unsupervised Monocular Depth Estimation with Left-Right Consistency ([code](https://github.com/mrharicot/monodepth))
 * FlowNet: Learning Optical Flow with Convolutional Networks
 * FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ([code](https://github.com/lmb-freiburg/flownet2))
 ## Computer Vision; Object Detection; Two Stage Detectors
