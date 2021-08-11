@@ -43,7 +43,10 @@ This is a two-semester-long course primarily designed for graduate students. How
   * Variational Auto-Encoders ([Lecture Notes](04%20-%20Generative%20Networks/01%20-%20Variational%20Auto-Encoders.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlgs3IByUnTIp6T4uk9vlax))
   * Unconditional GANs ([Lecture Notes](04%20-%20Generative%20Networks/02%20-%20Unconditional%20GANs.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnYMbO5DaypRM-AU_nvJgT2))
   * Conditional GANs ([Lecture Notes](04%20-%20Generative%20Networks/03%20-%20Conditional%20GANs.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlIopdozBBp04xPNJspaaqC))
-* Speech & Music ([Lecture Notes](05%20-%20Speech%20%26%20Music.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkL5fCXx50MN6nwWvsJgio6))
+* Speech & Music ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkL5fCXx50MN6nwWvsJgio6))
+  * Recognition ([Lecture Notes](05%20-%20Speech%20%26%20Music/01%20-%20Recognition.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlQpbAJHTQSSym1Gw9mWNV3))
+  * Synthesis ([Lecture Notes](05%20-%20Speech%20%26%20Music/02%20-%20Synthesis.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNmqXweVixFT2Ux2EzOKZdyS))
+  * Modeling ([Lecture Notes](05%20-%20Speech%20%26%20Music/03%20-%20Modeling.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlM3nBMmi3UxDH-QURAr4Gz))
 * Reinforcement Learning ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNl3yOJUx5oCmhCG_7Xu1Uml))
   * Games ([Lecture Notes](06%20-%20Reinforcement%20Learning/01%20-%20Games.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnYx5EIn3u7eSbYlD3PEL2l))
   * Simulated Environments ([Lecture Notes](06%20-%20Reinforcement%20Learning/02%20-%20Simulated%20Environments.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNn0BFiaZIPtj6sp-XeRTPsc))
@@ -317,19 +320,22 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 * High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs ([code](https://github.com/NVIDIA/pix2pixHD))
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation ([code](https://github.com/yunjey/stargan))
-## Speech & Music
+## Speech & Music; Recognition
 * Mel-Spectrogram and Mel-Frequency Cepstral Coefficients (MFCCs)
 * Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
 * Speech Recognition with Deep Recurrent Neural Networks
-* Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling ([code](https://github.com/jych/librnn))
 * Towards End-to-End Speech Recognition with Recurrent Neural Networks
 * Deep Speech: Scaling up end-to-end speech recognition
-* WaveNet: A Generative Model for Raw Audio
 * LSTM: A Search Space Odyssey
 * Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin
 * X-vectors: Robust DNN Embeddings for Speaker Recognition ([code](https://github.com/kaldi-asr/kaldi/tree/master/egs/sre16/v2))
 * SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition
 * Jasper: An End-to-End Convolutional Neural Acoustic Model ([code](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition.html))
+## Speech & Music; Synthesis
+* Generating Sequences With Recurrent Neural Networks
+* Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling ([code](https://github.com/jych/librnn))
+* WaveNet: A Generative Model for Raw Audio
+## Speech & Music; Modeling
 * Representation Learning with Contrastive Predictive Coding
 * wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations ([code](https://github.com/pytorch/fairseq))
 ## Reinforcement Learning; Games
