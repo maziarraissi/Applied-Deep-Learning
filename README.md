@@ -373,6 +373,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Inductive Representation Learning on Large Graphs ([code](http://snap.stanford.edu/graphsage/))
 * Graph Attention Networks ([code](https://github.com/PetarV-/GAT))
 * How Powerful Are Graph Neural Networks? ([code](https://github.com/weihua916/powerful-gnns))
+* Modeling Relational Data with Graph Convolutional Networks ([code](https://github.com/tkipf/relational-gcn))
 ## Recommender Systems
 * Session-based Recommendations with Recurrent Neural Networks ([code](https://github.com/hidasib/GRU4Rec))
 * AutoRec: Autoencoders Meet Collaborative Filtering
