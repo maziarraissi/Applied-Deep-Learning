@@ -109,6 +109,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * MnasNet: Platform-Aware Neural Architecture Search for Mobile ([code](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet))
 * Searching for MobileNetV3
 * AutoAugment: Learning Augmentation Strategies from Data
+* RandAugment: Practical Automated Data Augmentation with a Reduced Search Space
 ## Computer Vision; Image Classification; Robustness
 * Intriguing properties of neural networks
 * Explaining and harnessing adversarial examples
