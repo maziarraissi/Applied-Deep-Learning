@@ -151,6 +151,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Deep Clustering for Unsupervised Learning of Visual Features ([code](https://github.com/facebookresearch/deepcluster))
 * A Simple Framework for Contrastive Learning of Visual Representations ([code](https://github.com/google-research/simclr))
 * Momentum Contrast for Unsupervised Visual Representation Learning ([code](https://github.com/facebookresearch/moco))
+* Contrastive Multiview Coding ([code](https://github.com/HobbitLong/CMC/))
 * Data-Efficient Image Recognition with Contrastive Predictive Coding
 ## Computer Vision; Image Transformation; Semantic Segmentation
 * Fully Convolutional Networks for Semantic Segmentation ([code](https://github.com/shelhamer/fcn.berkeleyvision.org))
