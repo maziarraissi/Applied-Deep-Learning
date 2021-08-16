@@ -153,6 +153,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Momentum Contrast for Unsupervised Visual Representation Learning ([code](https://github.com/facebookresearch/moco))
 * Contrastive Multiview Coding ([code](https://github.com/HobbitLong/CMC/))
 * Data-Efficient Image Recognition with Contrastive Predictive Coding
+* Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning ([code](https://github.com/deepmind/deepmind-research/tree/master/byol))
 ## Computer Vision; Image Transformation; Semantic Segmentation
 * Fully Convolutional Networks for Semantic Segmentation ([code](https://github.com/shelhamer/fcn.berkeleyvision.org))
 * Learning Deconvolution Network for Semantic Segmentation ([code](https://github.com/HyeonwooNoh/DeconvNet))
