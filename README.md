@@ -205,6 +205,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Focal Loss for Dense Object Detection ([code](https://github.com/facebookresearch/detectron))
 * Speed/Accuracy Trade-Offs For Modern Convolutional Object Detectors
 * YOLOv3: An Incremental Improvement ([code](https://pjreddie.com/darknet/yolo/))
+* CornerNet: Detecting Objects as Paired Keypoints ([code](https://github.com/princeton-vl/CornerNet))
 * FCOS: Fully Convolutional One-Stage Object Detection ([code](https://github.com/tianzhi0549/FCOS/))
 * Objects as Points ([code](https://github.com/xingyizhou/CenterNet))
 * EfficientDet: Scalable and Efficient Object Detection ([code](https://github.com/google/automl/tree/master/efficientdet))
