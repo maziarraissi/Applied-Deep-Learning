@@ -349,6 +349,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Human-level Control through Deep Reinforcement Learning
 * Deep Reinforcement Learning with Double Q-Learning
 * Prioritized Experience Replay
+* Dueling Network Architectures for Deep Reinforcement Learning
 * Mastering the game of Go with deep neural networks and tree search
 * Mastering the game of Go without human knowledge
 * A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play
