@@ -359,6 +359,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Trust Region Policy Optimization ([code](https://github.com/joschu/modular_rl))
 * Conjugate Gradient Method
 * Asynchronous Methods for Deep Reinforcement Learning
+* High-Dimensional Continuous Control Using Generalized Advantage Estimation
 * Proximal Policy Optimization Algorithms
 * Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor ([code](https://github.com/haarnoja/sac))
 ## Reinforcement Learning; Real Environments
