@@ -82,6 +82,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Squeeze-and-Excitation Networks ([code](https://github.com/hujie-frank/SENet))
 * CBAM: Convolutional Block Attention Module ([code](https://github.com/Jongchan/attention-module))
 * Random Erasing Data Augmentation ([code](https://github.com/zhunzhong07/Random-Erasing))
+* Neural Ordinary Differential Equations ([code](https://github.com/rtqichen/torchdiffeq))
 * Spatial Transformer Networks
 * Dynamic Routing Between Capsules 
 * An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale ([code](https://github.com/google-research/vision_transformer))
