@@ -298,6 +298,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Generative Adversarial Text to Image Synthesis ([code](https://github.com/reedscot/icml2016))
 * StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks ([code](https://github.com/hanzhanggit/StackGAN))
 * Zero-Shot Text-to-Image Generation ([code](https://github.com/openai/DALL-E))
+* Perceiver IO: A General Architecture for Structured Inputs & Outputs ([code](https://github.com/deepmind/deepmind-research/tree/master/perceiver))
 ## Generative Networks; Variational Auto-Encoders
 * Auto-Encoding Variational Bayes
 * Stochastic Backpropagation and Approximate Inference in Deep Generative Models
