@@ -131,6 +131,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization ([code](https://github.com/ramprs/grad-cam/))
 * A Unified Approach to Interpreting Model Predictions ([code](https://github.com/slundberg/shap))
 * On Calibration of Modern Neural Networks ([code](https://github.com/gpleiss/temperature_scaling))
+* Do Vision Transformers See Like Convolutional Neural Networks?
 ## Computer Vision; Image Classification; Transfer Learning
 * How transferable are features in deep neural networks? ([code](https://github.com/yosinski/convnet_transfer))
 * DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition ([code](https://github.com/UCBAIR/decaf-release))
