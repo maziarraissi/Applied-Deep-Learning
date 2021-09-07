@@ -289,6 +289,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Language Models are Few-Shot Learners ([code](https://github.com/openai/gpt-3))
 * ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators ([code](https://github.com/google-research/electra))
 * Pay Attention to MLPs
+* Evaluating Large Language Models Trained on Code ([code](https://github.com/openai/human-eval))
 ## Multimodal Learning
 * Long-term Recurrent Convolutional Networks for Visual Recognition and Description
 * Show and Tell: A Neural Image Caption Generator
