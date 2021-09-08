@@ -271,6 +271,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Attention Is All You Need ([code](https://github.com/tensorflow/tensor2tensor))
 * Reformer: The Efficient Transformer ([code](https://github.com/google/trax/tree/master/trax/models/reformer))
 * Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention ([code](https://github.com/idiap/fast-transformers))
+* Rethinking Attention with Performers ([code](https://github.com/google-research/google-research/tree/master/performer))
 ## Natural Language Processing; Language Modeling
 * Deep contextualized word representations ([code](https://allennlp.org/elmo))
 * An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling ([code](https://github.com/locuslab/TCN))
