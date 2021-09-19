@@ -215,6 +215,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * EfficientDet: Scalable and Efficient Object Detection ([code](https://github.com/google/automl/tree/master/efficientdet))
 * YOLOv4: Optimal Speed and Accuracy of Object Detection ([code](https://github.com/AlexeyAB/darknet))
 * End-to-End Object Detection with Transformers ([code](https://github.com/facebookresearch/detr))
+* Deformable DETR: Deformable Transformers for End-to-End Object Detection ([code](https://github.com/fundamentalvision/Deformable-DETR))
 ## Computer Vision; Face Recognition and Detection
 * DeepFace: Closing the Gap to Human-Level Performance in Face Verification
 * FaceNet: A Unified Embedding for Face Recognition and Clustering
