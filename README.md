@@ -158,6 +158,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Contrastive Multiview Coding ([code](https://github.com/HobbitLong/CMC/))
 * Data-Efficient Image Recognition with Contrastive Predictive Coding
 * Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning ([code](https://github.com/deepmind/deepmind-research/tree/master/byol))
+* BEIT: BERT Pre-Training of Image Transformers ([code](https://github.com/microsoft/unilm/tree/master/beit))
 ## Computer Vision; Image Transformation; Semantic Segmentation
 * Fully Convolutional Networks for Semantic Segmentation ([code](https://github.com/shelhamer/fcn.berkeleyvision.org))
 * Learning Deconvolution Network for Semantic Segmentation ([code](https://github.com/HyeonwooNoh/DeconvNet))
