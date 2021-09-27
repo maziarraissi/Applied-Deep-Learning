@@ -174,6 +174,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation ([code](https://github.com/guosheng/refinenet))
 * Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation ([code](https://github.com/tensorflow/models/tree/master/research/deeplab))
 * Dual Attention Network for Scene Segmentation ([code](https://github.com/junfu1115/DANet/))
+* Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers ([code](https://github.com/fudan-zvg/SETR)) ([code](https://github.com/open-mmlab/mmsegmentation))
 ## Computer Vision; Image Transformation; Super-Resolution, Denoising, and Colorization
 * Learning a Deep Convolutional Network for Image Super-Resolution ([code](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html))
 * Perceptual Losses for Real-Time Style Transfer and Super-Resolution 
