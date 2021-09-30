@@ -150,6 +150,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Learning to Compare: Relation Network for Few-Shot Learning
 ## Computer Vision; Image Classification; Federated Learning
 * Communication-Efficient Learning of Deep Networks from Decentralized Data
+* How To Backdoor Federated Learning ([code](https://github.com/ebagdasa/backdoor_federated_learning))
 ## Computer Vision; Image Classification; Data-efficient Learning
 * Self-training with Noisy Student improves ImageNet classification ([code](https://github.com/google-research/noisystudent))
 * Deep Clustering for Unsupervised Learning of Visual Features ([code](https://github.com/facebookresearch/deepcluster))
