@@ -156,6 +156,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Deep Clustering for Unsupervised Learning of Visual Features ([code](https://github.com/facebookresearch/deepcluster))
 * A Simple Framework for Contrastive Learning of Visual Representations ([code](https://github.com/google-research/simclr))
 * Momentum Contrast for Unsupervised Visual Representation Learning ([code](https://github.com/facebookresearch/moco))
+* Big Self-Supervised Models are Strong Semi-Supervised Learners ([code](https://github.com/google-research/simclr)) ([data](https://www.tensorflow.org/datasets/catalog/imagenet2012_subset))
 * Contrastive Multiview Coding ([code](https://github.com/HobbitLong/CMC/))
 * Data-Efficient Image Recognition with Contrastive Predictive Coding
 * Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning ([code](https://github.com/deepmind/deepmind-research/tree/master/byol))
