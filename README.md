@@ -160,6 +160,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Contrastive Multiview Coding ([code](https://github.com/HobbitLong/CMC/))
 * Data-Efficient Image Recognition with Contrastive Predictive Coding
 * Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning ([code](https://github.com/deepmind/deepmind-research/tree/master/byol))
+* FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence ([code](https://github.com/google-research/fixmatch))
 * Training data-efficient image transformers & distillation through attention ([code](https://github.com/facebookresearch/deit)) ([code](https://github.com/rwightman/pytorch-image-models))
 * BEIT: BERT Pre-Training of Image Transformers ([code](https://github.com/microsoft/unilm/tree/master/beit))
 ## Computer Vision; Image Transformation; Semantic Segmentation
