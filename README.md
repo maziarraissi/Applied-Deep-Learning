@@ -81,6 +81,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Residual Attention Network for Image Classification
 * Squeeze-and-Excitation Networks ([code](https://github.com/hujie-frank/SENet))
 * CBAM: Convolutional Block Attention Module ([code](https://github.com/Jongchan/attention-module))
+* ResNeSt: Split-Attention Networks ([code](https://github.com/zhanghang1989/ResNeSt))
 * Random Erasing Data Augmentation ([code](https://github.com/zhunzhong07/Random-Erasing))
 * Neural Ordinary Differential Equations ([code](https://github.com/rtqichen/torchdiffeq))
 * Spatial Transformer Networks
