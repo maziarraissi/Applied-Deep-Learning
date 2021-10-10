@@ -110,6 +110,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks ([code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet))
 * MnasNet: Platform-Aware Neural Architecture Search for Mobile ([code](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet))
 * Searching for MobileNetV3
+* Designing Network Design Spaces ([code](https://github.com/facebookresearch/pycls))
 * AutoAugment: Learning Augmentation Strategies from Data
 * RandAugment: Practical Automated Data Augmentation with a Reduced Search Space
 ## Computer Vision; Image Classification; Robustness
