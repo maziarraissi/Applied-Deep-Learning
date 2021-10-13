@@ -128,6 +128,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Visualizing and Understanding Convolutional Networks
 * Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps
 * Striving for Simplicity: The All Convolutional Net
+* Methods for interpreting and understanding deep neural networks ([code](http://heatmapping.org/tutorial))
 * “Why Should I Trust You?” Explaining the Predictions of Any Classifier ([code](https://github.com/marcotcr/lime-experiments))
 * Learning Deep Features for Discriminative Localization ([code](https://github.com/zhoubolei/CAM))
 * Understanding Deep Learning Requires Rethinking Generalization
