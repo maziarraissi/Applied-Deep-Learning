@@ -134,6 +134,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Understanding Deep Learning Requires Rethinking Generalization
 * Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization ([code](https://github.com/ramprs/grad-cam/))
 * A Unified Approach to Interpreting Model Predictions ([code](https://github.com/slundberg/shap))
+* Axiomatic Attribution for Deep Networks ([code](https://github.com/ankurtaly/Integrated-Gradients))
 * On Calibration of Modern Neural Networks ([code](https://github.com/gpleiss/temperature_scaling))
 * Understanding the role of individual units in a deep neural network ([code](https://github.com/davidbau/dissect))
 * Do Vision Transformers See Like Convolutional Neural Networks?
