@@ -149,6 +149,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Learning Transferable Features with Deep Adaptation Networks ([code](https://github.com/thuml/DAN))
 * Domain-Adversarial Training of Neural Networks ([code](https://github.com/ddtm/caffe/tree/grl))
 * Adversarial Discriminative Domain Adaptation
+* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks
 * CyCADA: Cycle-Consistent Adversarial Domain Adaptation ([code](https://github.com/jhoffman/cycada_release))
 ## Computer Vision; Image Classification; Few-shot Learning
 * Matching Networks for One Shot Learning
