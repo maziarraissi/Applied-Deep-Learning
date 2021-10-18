@@ -15,11 +15,6 @@ This is a two-semester-long course primarily designed for graduate students. How
     * Robustness ([Lecture Notes](01%20-%20Computer%20Vision/01%20-%20Image%20Classification/04%20-%20Robustness.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnBnw17OkCP70ASwmHQqvQt))
     * Visualizing & Understanding ([Lecture Notes](01%20-%20Computer%20Vision/01%20-%20Image%20Classification/05%20-%20Visualizing%20%26%20Understanding.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkOG-DEF1RQ_oPXKGTO988o))
     * Transfer Learning ([Lecture Notes](01%20-%20Computer%20Vision/01%20-%20Image%20Classification/06%20-%20Transfer%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkn3ofeGWkuLllzdbVPMqWS))
-    * Domain Adaptation ([Lecture Notes](01%20-%20Computer%20Vision/01%20-%20Image%20Classification/07%20-%20Domain%20Adaptation.pdf))
-    * Few Shot Learning ([Lecture Notes](01%20-%20Computer%20Vision/01%20-%20Image%20Classification/08%20-%20Few%20Shot%20Learning.pdf))
-    * Federated Learning ([Lecture Notes](01%20-%20Computer%20Vision/01%20-%20Image%20Classification/09%20-%20Federated%20Learning.pdf))
-    * Semi-Supervised Learning ([Lecture Notes](01%20-%20Computer%20Vision/01%20-%20Image%20Classification/10%20-%20Semi-Supervised%20Learning.pdf))
-    * Self-Supervised Learning ([Lecture Notes](01%20-%20Computer%20Vision/01%20-%20Image%20Classification/11%20-%20Self-Supervised%20Learning.pdf))
   * Image Transformation
     * Semantic Segmentation ([Lecture Notes](01%20-%20Computer%20Vision/02%20-%20Image%20Transformation/01%20-%20Semantic%20Segmentation.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkh9JAoKa9TwO2LufHYdQSz))
     * Super-Resolution, Denoising, and Colorization ([Lecture Notes](01%20-%20Computer%20Vision/02%20-%20Image%20Transformation/02%20-%20Super-Resolution%2C%20Denoising%2C%20and%20Colorization.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNl6RQNFrHnxNWzq3Byy8bAd))
@@ -31,6 +26,12 @@ This is a two-semester-long course primarily designed for graduate students. How
   * Face Recognition and Detection ([Lecture Notes](01%20-%20Computer%20Vision/04%20-%20Face%20Recognition%20and%20Detection.pdf))
   * Video ([Lecture Notes](01%20-%20Computer%20Vision/05%20-%20Video.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkvCOt7-WCh0xEBICaqHo6Y))
   * 3D ([Lecture Notes](01%20-%20Computer%20Vision/06%20-%203D.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNmvjhZTBWfyMuFggNKkIYKa))
+  * Advanced Topics
+    * Domain Adaptation ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/01%20-%20Domain%20Adaptation.pdf))
+    * Few Shot Learning ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/02%20-%20Few%20Shot%20Learning.pdf))
+    * Federated Learning ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/03%20-%20Federated%20Learning.pdf))
+    * Semi-Supervised Learning ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/04%20-%20Semi-Supervised%20Learning.pdf))
+    * Self-Supervised Learning ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/05%20-%20Self-Supervised%20Learning.pdf))
 
 ## Part II Topics (Spring Semester)
 
@@ -145,35 +146,6 @@ This is a two-semester-long course primarily designed for graduate students. How
 * CNN Features off-the-shelf: an Astounding Baseline for Recognition
 * Return of the Devil in the Details: Delving Deep into Convolutional Nets ([code](https://www.robots.ox.ac.uk/~vgg/research/deep_eval/#soft))
 * Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks ([code](https://www.di.ens.fr/willow/research/cnn/))
-## Computer Vision; Image Classification; Domain Adaptation
-* Learning Transferable Features with Deep Adaptation Networks ([code](https://github.com/thuml/DAN))
-* Domain-Adversarial Training of Neural Networks ([code](https://github.com/ddtm/caffe/tree/grl))
-* Adversarial Discriminative Domain Adaptation
-* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks
-* CyCADA: Cycle-Consistent Adversarial Domain Adaptation ([code](https://github.com/jhoffman/cycada_release))
-## Computer Vision; Image Classification; Few-shot Learning
-* Matching Networks for One Shot Learning
-* Prototypical Networks for Few-shot Learning ([code](https://github.com/jakesnell/prototypical-networks))
-* Learning to Compare: Relation Network for Few-Shot Learning
-## Computer Vision; Image Classification; Federated Learning
-* Communication-Efficient Learning of Deep Networks from Decentralized Data
-* How To Backdoor Federated Learning ([code](https://github.com/ebagdasa/backdoor_federated_learning))
-## Computer Vision; Image Classification; Semi-Supervised Learning
-* MixMatch: A Holistic Approach to Semi-Supervised Learning ([code](https://github.com/google-research/mixmatch))
-* Self-training with Noisy Student improves ImageNet classification ([code](https://github.com/google-research/noisystudent))
-* FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence ([code](https://github.com/google-research/fixmatch))
-* Training data-efficient image transformers & distillation through attention ([code](https://github.com/facebookresearch/deit)) ([code](https://github.com/rwightman/pytorch-image-models))
-## Computer Vision; Image Classification; Self-Supervised Learning
-* Deep Clustering for Unsupervised Learning of Visual Features ([code](https://github.com/facebookresearch/deepcluster))
-* Data-Efficient Image Recognition with Contrastive Predictive Coding
-* Contrastive Multiview Coding ([code](https://github.com/HobbitLong/CMC/))
-* Momentum Contrast for Unsupervised Visual Representation Learning ([code](https://github.com/facebookresearch/moco))
-* Self-Supervised Learning of Pretext-Invariant Representations ([code](https://github.com/facebookresearch/vissl/blob/main/projects/PIRL/README.md))
-* A Simple Framework for Contrastive Learning of Visual Representations ([code](https://github.com/google-research/simclr))
-* Big Self-Supervised Models are Strong Semi-Supervised Learners ([code](https://github.com/google-research/simclr)) ([data](https://www.tensorflow.org/datasets/catalog/imagenet2012_subset))
-* Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning ([code](https://github.com/deepmind/deepmind-research/tree/master/byol))
-* Unsupervised Learning of Visual Features by Contrasting Cluster Assignments ([code](https://github.com/facebookresearch/swav))
-* BEIT: BERT Pre-Training of Image Transformers ([code](https://github.com/microsoft/unilm/tree/master/beit))
 ## Computer Vision; Image Transformation; Semantic Segmentation
 * Fully Convolutional Networks for Semantic Segmentation ([code](https://github.com/shelhamer/fcn.berkeleyvision.org))
 * Learning Deconvolution Network for Semantic Segmentation ([code](https://github.com/HyeonwooNoh/DeconvNet))
@@ -260,6 +232,36 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Dynamic Graph CNN for Learning on Point Clouds ([code](https://github.com/WangYueFt/dgcnn))
 * Point Transformer
 * VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
+## Computer Vision; Advanced Topics; Domain Adaptation
+* Learning Transferable Features with Deep Adaptation Networks ([code](https://github.com/thuml/DAN))
+* Domain-Adversarial Training of Neural Networks ([code](https://github.com/ddtm/caffe/tree/grl))
+* Adversarial Discriminative Domain Adaptation
+* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks
+* CyCADA: Cycle-Consistent Adversarial Domain Adaptation ([code](https://github.com/jhoffman/cycada_release))
+## Computer Vision; Advanced Topics; Few-shot Learning
+* Matching Networks for One Shot Learning
+* Prototypical Networks for Few-shot Learning ([code](https://github.com/jakesnell/prototypical-networks))
+* Learning to Compare: Relation Network for Few-Shot Learning
+## Computer Vision; Advanced Topics; Federated Learning
+* Communication-Efficient Learning of Deep Networks from Decentralized Data
+* Federated Learning: Strategies for Improving Communication Efficiency
+* How To Backdoor Federated Learning ([code](https://github.com/ebagdasa/backdoor_federated_learning))
+## Computer Vision; Advanced Topics; Semi-Supervised Learning
+* MixMatch: A Holistic Approach to Semi-Supervised Learning ([code](https://github.com/google-research/mixmatch))
+* Self-training with Noisy Student improves ImageNet classification ([code](https://github.com/google-research/noisystudent))
+* FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence ([code](https://github.com/google-research/fixmatch))
+* Training data-efficient image transformers & distillation through attention ([code](https://github.com/facebookresearch/deit)) ([code](https://github.com/rwightman/pytorch-image-models))
+## Computer Vision; Advanced Topics; Self-Supervised Learning
+* Deep Clustering for Unsupervised Learning of Visual Features ([code](https://github.com/facebookresearch/deepcluster))
+* Data-Efficient Image Recognition with Contrastive Predictive Coding
+* Contrastive Multiview Coding ([code](https://github.com/HobbitLong/CMC/))
+* Momentum Contrast for Unsupervised Visual Representation Learning ([code](https://github.com/facebookresearch/moco))
+* Self-Supervised Learning of Pretext-Invariant Representations ([code](https://github.com/facebookresearch/vissl/blob/main/projects/PIRL/README.md))
+* A Simple Framework for Contrastive Learning of Visual Representations ([code](https://github.com/google-research/simclr))
+* Big Self-Supervised Models are Strong Semi-Supervised Learners ([code](https://github.com/google-research/simclr)) ([data](https://www.tensorflow.org/datasets/catalog/imagenet2012_subset))
+* Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning ([code](https://github.com/deepmind/deepmind-research/tree/master/byol))
+* Unsupervised Learning of Visual Features by Contrasting Cluster Assignments ([code](https://github.com/facebookresearch/swav))
+* BEIT: BERT Pre-Training of Image Transformers ([code](https://github.com/microsoft/unilm/tree/master/beit))
 ## Natural Language Processing; Word Representations
 * Linguistic Regularities in Continuous Space Word Representations
 * Distributed Representations of Words and Phrases and their Compositionality
