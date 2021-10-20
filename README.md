@@ -246,6 +246,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Communication-Efficient Learning of Deep Networks from Decentralized Data
 * Federated Learning: Strategies for Improving Communication Efficiency
 * How To Backdoor Federated Learning ([code](https://github.com/ebagdasa/backdoor_federated_learning))
+* Deep Learning with Differential Privacy
 ## Computer Vision; Advanced Topics; Semi-Supervised Learning
 * MixMatch: A Holistic Approach to Semi-Supervised Learning ([code](https://github.com/google-research/mixmatch))
 * Self-training with Noisy Student improves ImageNet classification ([code](https://github.com/google-research/noisystudent))
