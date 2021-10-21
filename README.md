@@ -259,6 +259,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Momentum Contrast for Unsupervised Visual Representation Learning ([code](https://github.com/facebookresearch/moco))
 * Self-Supervised Learning of Pretext-Invariant Representations ([code](https://github.com/facebookresearch/vissl/blob/main/projects/PIRL/README.md))
 * A Simple Framework for Contrastive Learning of Visual Representations ([code](https://github.com/google-research/simclr))
+* Supervised Contrastive Learning ([code](https://github.com/HobbitLong/SupContrast)) ([code](https://github.com/google-research/google-research/tree/master/supcon))
 * Big Self-Supervised Models are Strong Semi-Supervised Learners ([code](https://github.com/google-research/simclr)) ([data](https://www.tensorflow.org/datasets/catalog/imagenet2012_subset))
 * Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning ([code](https://github.com/deepmind/deepmind-research/tree/master/byol))
 * Unsupervised Learning of Visual Features by Contrasting Cluster Assignments ([code](https://github.com/facebookresearch/swav))
