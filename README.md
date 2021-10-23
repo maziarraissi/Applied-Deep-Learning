@@ -85,6 +85,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * CBAM: Convolutional Block Attention Module ([code](https://github.com/Jongchan/attention-module))
 * ResNeSt: Split-Attention Networks ([code](https://github.com/zhanghang1989/ResNeSt))
 * Random Erasing Data Augmentation ([code](https://github.com/zhunzhong07/Random-Erasing))
+* CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features ([code](https://github.com/clovaai/CutMix-PyTorch))
 * Neural Ordinary Differential Equations ([code](https://github.com/rtqichen/torchdiffeq))
 * Spatial Transformer Networks
 * Dynamic Routing Between Capsules 
