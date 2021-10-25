@@ -250,7 +250,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Deep Learning with Differential Privacy
 ## Computer Vision; Advanced Topics; Semi-Supervised Learning
 * Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning ([code](https://github.com/takerum/vat_tf)) ([code](https://github.com/takerum/vat_chainer))
-* 
+* Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results ([code](https://github.com/CuriousAI/mean-teacher))
 * MixMatch: A Holistic Approach to Semi-Supervised Learning ([code](https://github.com/google-research/mixmatch))
 * Self-training with Noisy Student improves ImageNet classification ([code](https://github.com/google-research/noisystudent))
 * FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence ([code](https://github.com/google-research/fixmatch))
