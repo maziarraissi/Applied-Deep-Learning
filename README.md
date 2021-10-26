@@ -171,6 +171,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising ([code](https://github.com/cszn/DnCNN))
 * Enhanced Deep Residual Networks for Single Image Super-Resolution ([code](https://github.com/LimBee/NTIRE2017))
 * The Unreasonable Effectiveness of Deep Features as a Perceptual Metric ([code](https://github.com/richzhang/PerceptualSimilarity))
+* Colorful Image Colorization ([code](https://github.com/richzhang/colorization))
 ## Computer Vision; Pose Estimation
 * Convolutional Pose Machines ([code](https://github.com/CMU-Perceptual-Computing-Lab/convolutional-pose-machines-release))
 * Stacked Hourglass Networks for Human Pose Estimation ([code](https://github.com/princeton-vl/pytorch_stacked_hourglass))
