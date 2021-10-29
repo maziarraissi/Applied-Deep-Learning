@@ -215,6 +215,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks ([code](https://github.com/kpzhang93/MTCNN_face_detection_alignment))
 * A Discriminative Feature Learning Approach for Deep Face Recognition
 * In Defense of the Triplet Loss for Person Re-Identification ([code](https://github.com/VisualComputingInstitute/triplet-reid))
+* SphereFace: Deep Hypersphere Embedding for Face Recognition ([code](https://github.com/wy1iu/sphereface))
 * ArcFace: Additive Angular Margin Loss for Deep Face Recognition ([code](https://github.com/deepinsight/insightface))
 ## Computer Vision; Video
 * 3D Convolutional Neural Networks for Human Action Recognition
