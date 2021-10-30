@@ -122,6 +122,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Adversarial Examples in the Physical World
 * The Limitations of Deep Learning in Adversarial Settings
 * Practical Black-Box Attacks against Machine Learning
+* Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks
 * Towards Evaluating the Robustness of Neural Networks ([code](https://github.com/carlini/nn_robust_attacks))
 * Towards Deep Learning Models Resistant to Adversarial Attacks ([code](https://github.com/MadryLab/mnist_challenge))
 * Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples ([code](https://github.com/anishathalye/obfuscated-gradients))
