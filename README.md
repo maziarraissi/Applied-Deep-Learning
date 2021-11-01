@@ -225,6 +225,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Learning Spatiotemporal Features with 3D Convolutional Networks ([code](https://github.com/facebookarchive/C3D))
 * Action Recognition with Trajectory-Pooled Deep-Convolutional Descriptors ([code](https://github.com/wanglimin/tdd/))
 * Temporal Segment Networks: Towards Good Practices for Deep Action Recognition ([code](https://github.com/yjxiong/temporal-segment-networks))
+* Convolutional Two-Stream Network Fusion for Video Action Recognition ([code](https://github.com/feichtenhofer/twostreamfusion))
 * Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset ([code](https://github.com/deepmind/kinetics-i3d))
 * Non-local Neural Networks ([code](https://github.com/facebookresearch/video-nonlocal-net))
 * Group Normalization ([code](https://github.com/facebookresearch/Detectron/tree/master/projects/GN))
