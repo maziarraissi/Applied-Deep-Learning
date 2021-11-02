@@ -229,6 +229,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset ([code](https://github.com/deepmind/kinetics-i3d))
 * Non-local Neural Networks ([code](https://github.com/facebookresearch/video-nonlocal-net))
 * Group Normalization ([code](https://github.com/facebookresearch/Detectron/tree/master/projects/GN))
+* SlowFast Networks for Video Recognition ([code](https://github.com/facebookresearch/SlowFast))
 * Learning Multi-Domain Convolutional Neural Networks for Visual Tracking ([code](https://github.com/HyeonseobNam/MDNet))
 * Fully-Convolutional Siamese Networks for Object Tracking ([code](https://github.com/bertinetto/cfnet))
 * Robust Consistent Video Depth Estimation ([code](https://robust-cvd.github.io))
