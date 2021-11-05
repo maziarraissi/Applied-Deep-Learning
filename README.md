@@ -177,6 +177,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * The Unreasonable Effectiveness of Deep Features as a Perceptual Metric ([code](https://github.com/richzhang/PerceptualSimilarity))
 * Colorful Image Colorization ([code](https://github.com/richzhang/colorization))
 ## Computer Vision; Pose Estimation
+* DeepPose: Human Pose Estimation via Deep Neural Networks
 * Convolutional Pose Machines ([code](https://github.com/CMU-Perceptual-Computing-Lab/convolutional-pose-machines-release))
 * Stacked Hourglass Networks for Human Pose Estimation ([code](https://github.com/princeton-vl/pytorch_stacked_hourglass))
 * Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields ([code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation))
