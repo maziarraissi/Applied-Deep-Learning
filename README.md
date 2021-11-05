@@ -173,6 +173,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Enhanced Deep Residual Networks for Single Image Super-Resolution ([code](https://github.com/LimBee/NTIRE2017))
 * Deep Image Prior ([code](https://github.com/DmitryUlyanov/deep-image-prior))
 * Residual Dense Network for Image Super-Resolution ([code](https://github.com/yulunzhang/RDN))
+* Image Super-Resolution Using Very Deep Residual Channel Attention Networks ([code](https://github.com/yulunzhang/RCAN))
 * The Unreasonable Effectiveness of Deep Features as a Perceptual Metric ([code](https://github.com/richzhang/PerceptualSimilarity))
 * Colorful Image Colorization ([code](https://github.com/richzhang/colorization))
 ## Computer Vision; Pose Estimation
