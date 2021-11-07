@@ -186,6 +186,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * FlowNet: Learning Optical Flow with Convolutional Networks
 * FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks ([code](https://github.com/lmb-freiburg/flownet2))
 * PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume ([code](https://github.com/NVlabs/PWC-Net))
+* Depth Map Prediction from a Single Image using a Multi-Scale Deep Network
 * Unsupervised Monocular Depth Estimation with Left-Right Consistency ([code](https://github.com/mrharicot/monodepth))
 ## Computer Vision; Object Detection; Two Stage Detectors
 * A Survey on Performance Metrics for Object-Detection Algorithms ([code](https://github.com/rafaelpadilla/Object-Detection-Metrics))
