@@ -188,6 +188,8 @@ This is a two-semester-long course primarily designed for graduate students. How
 * PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume ([code](https://github.com/NVlabs/PWC-Net))
 * Depth Map Prediction from a Single Image using a Multi-Scale Deep Network
 * Unsupervised Monocular Depth Estimation with Left-Right Consistency ([code](https://github.com/mrharicot/monodepth))
+* Unsupervised Learning of Depth and Ego-Motion from Video ([code](https://github.com/tinghuiz/SfMLearner))
+* Robust Consistent Video Depth Estimation ([code](https://robust-cvd.github.io))
 ## Computer Vision; Object Detection; Two Stage Detectors
 * A Survey on Performance Metrics for Object-Detection Algorithms ([code](https://github.com/rafaelpadilla/Object-Detection-Metrics))
 * Rich feature hierarchies for accurate object detection and semantic segmentation ([code](https://github.com/rbgirshick/rcnn))
@@ -238,7 +240,6 @@ This is a two-semester-long course primarily designed for graduate students. How
 * SlowFast Networks for Video Recognition ([code](https://github.com/facebookresearch/SlowFast))
 * Learning Multi-Domain Convolutional Neural Networks for Visual Tracking ([code](https://github.com/HyeonseobNam/MDNet))
 * Fully-Convolutional Siamese Networks for Object Tracking ([code](https://github.com/bertinetto/cfnet))
-* Robust Consistent Video Depth Estimation ([code](https://robust-cvd.github.io))
 ## Computer Vision; 3D
 * V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation ([code](https://github.com/faustomilletari/VNet))
 * PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation ([code](https://github.com/charlesq34/pointnet))
