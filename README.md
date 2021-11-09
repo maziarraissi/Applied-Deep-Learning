@@ -236,6 +236,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Temporal Segment Networks: Towards Good Practices for Deep Action Recognition ([code](https://github.com/yjxiong/temporal-segment-networks))
 * Convolutional Two-Stream Network Fusion for Video Action Recognition ([code](https://github.com/feichtenhofer/twostreamfusion))
 * Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset ([code](https://github.com/deepmind/kinetics-i3d))
+* A Closer Look at Spatiotemporal Convolutions for Action Recognition ([code](https://github.com/facebookresearch/VMZ))
 * Non-local Neural Networks ([code](https://github.com/facebookresearch/video-nonlocal-net))
 * Group Normalization ([code](https://github.com/facebookresearch/Detectron/tree/master/projects/GN))
 * SlowFast Networks for Video Recognition ([code](https://github.com/facebookresearch/SlowFast))
