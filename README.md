@@ -126,6 +126,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Towards Evaluating the Robustness of Neural Networks ([code](https://github.com/carlini/nn_robust_attacks))
 * Towards Deep Learning Models Resistant to Adversarial Attacks ([code](https://github.com/MadryLab/mnist_challenge))
 * Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples ([code](https://github.com/anishathalye/obfuscated-gradients))
+* Ensemble Adversarial Training: Attacks and Defenses ([code](https://github.com/ftramer/ensemble-adv-training))
 * One Pixel Attack for Fooling Deep Neural Networks
 ## Computer Vision; Image Classification; Visualizing & Understanding
 * Visualizing and Understanding Convolutional Networks
