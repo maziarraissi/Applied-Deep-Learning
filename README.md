@@ -375,6 +375,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 * High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs ([code](https://github.com/NVIDIA/pix2pixHD))
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation ([code](https://github.com/yunjey/stargan))
+* Semantic Image Synthesis with Spatially-Adaptive Normalization ([code](https://github.com/NVlabs/SPADE))
 ## Speech & Music; Recognition
 * Mel-Spectrogram and Mel-Frequency Cepstral Coefficients (MFCCs)
 * Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
