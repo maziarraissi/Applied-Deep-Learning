@@ -250,6 +250,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Dynamic Graph CNN for Learning on Point Clouds ([code](https://github.com/WangYueFt/dgcnn))
 * Point Transformer
 * VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
+* NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis ([code](https://github.com/bmild/nerf))
 ## Computer Vision; Advanced Topics; Domain Adaptation
 * Learning Transferable Features with Deep Adaptation Networks ([code](https://github.com/thuml/DAN))
 * Domain-Adversarial Training of Neural Networks ([code](https://github.com/ddtm/caffe/tree/grl))
