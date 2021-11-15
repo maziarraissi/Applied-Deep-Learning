@@ -421,6 +421,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Learning Dexterous In-Hand Manipulation
 ## Reinforcement Learning; Uncertainty Quantification & Multitask Learning
 * Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning ([code](https://github.com/yaringal/DropoutUncertaintyCaffeModels))
+* Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles
 * Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks ([code](https://github.com/cbfinn/maml)) ([code](https://github.com/cbfinn/maml_rl))
 * Overcoming catastrophic forgetting in neural networks
 ## Graph Neural Networks
