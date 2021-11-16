@@ -325,6 +325,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Language Models are Unsupervised Multitask Learners ([code](https://github.com/openai/gpt-2))
 * ALBERT: A Lite BERT for Self-supervised Learning of Language Representations ([code](https://github.com/google-research/ALBERT))
 * RoBERTa: A Robustly Optimized BERT Pretraining Approach ([code](https://github.com/pytorch/fairseq))
+* DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter ([code](https://github.com/huggingface/transformers)) ([code](https://github.com/huggingface/swift-coreml-transformers))
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context ([code](https://github.com/kimiyoung/transformer-xl))
 * XLNet: Generalized Autoregressive Pretraining for Language Understanding ([code](https://github.com/zihangdai/xlnet))
 * Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer ([code](https://github.com/google-research/text-to-text-transfer-transformer))
