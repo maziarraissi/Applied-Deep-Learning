@@ -315,6 +315,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
 * Convolutional Sequence to Sequence Learning ([code](https://github.com/facebookresearch/fairseq))
 * Attention Is All You Need ([code](https://github.com/tensorflow/tensor2tensor))
+* SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing ([code](https://github.com/google/sentencepiece))
 * Reformer: The Efficient Transformer ([code](https://github.com/google/trax/tree/master/trax/models/reformer))
 * Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention ([code](https://github.com/idiap/fast-transformers))
 * Rethinking Attention with Performers ([code](https://github.com/google-research/google-research/tree/master/performer))
