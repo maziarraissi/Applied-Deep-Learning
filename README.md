@@ -81,6 +81,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * mixup: Beyond Empirical Risk Minimization ([code](https://github.com/facebookresearch/mixup-cifar10))
 * Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour ([code](https://github.com/facebookincubator/gloo))
 * SGDR: Stochastic Gradient Descent with Warm Restarts ([code](https://github.com/loshchil/SGDR))
+* Decoupled Weight Decay Regularization ([code](https://github.com/loshchil/AdamW-and-SGDW))
 * Residual Attention Network for Image Classification
 * Squeeze-and-Excitation Networks ([code](https://github.com/hujie-frank/SENet))
 * CBAM: Convolutional Block Attention Module ([code](https://github.com/Jongchan/attention-module))
