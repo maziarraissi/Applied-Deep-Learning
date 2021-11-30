@@ -333,6 +333,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context ([code](https://github.com/kimiyoung/transformer-xl))
 * XLNet: Generalized Autoregressive Pretraining for Language Understanding ([code](https://github.com/zihangdai/xlnet))
 * Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer ([code](https://github.com/google-research/text-to-text-transfer-transformer))
+* Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks ([code](https://github.com/allenai/dont-stop-pretraining))
 * Cross-lingual Language Model Pretraining ([code](https://github.com/facebookresearch/XLM))
 * Unsupervised Cross-lingual Representation Learning at Scale ([code](https://github.com/facebookresearch/XLM))
 * SpanBERT: Improving Pre-training by Representing and Predicting Spans ([code](https://github.com/facebookresearch/SpanBERT))
