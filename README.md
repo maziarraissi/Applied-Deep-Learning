@@ -381,6 +381,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks ([code](https://github.com/junyanz/CycleGAN))
 * Unsupervised Image-to-Image Translation Networks ([code](https://github.com/mingyuliutw/unit))
 * Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+* ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks ([code](https://github.com/xinntao/ESRGAN))
 * High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs ([code](https://github.com/NVIDIA/pix2pixHD))
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation ([code](https://github.com/yunjey/stargan))
 * Semantic Image Synthesis with Spatially-Adaptive Normalization ([code](https://github.com/NVlabs/SPADE))
