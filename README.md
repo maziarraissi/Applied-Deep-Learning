@@ -338,6 +338,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Unsupervised Cross-lingual Representation Learning at Scale ([code](https://github.com/facebookresearch/XLM))
 * SpanBERT: Improving Pre-training by Representing and Predicting Spans ([code](https://github.com/facebookresearch/SpanBERT))
 * BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension
+* Longformer: The Long-Document Transformer ([code](https://github.com/allenai/longformer))
 * Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks ([code](https://github.com/UKPLab/sentence-transformers))
 * Language Models are Few-Shot Learners ([code](https://github.com/openai/gpt-3))
 * ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators ([code](https://github.com/google-research/electra))
