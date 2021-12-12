@@ -358,6 +358,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 ## Generative Networks; Variational Auto-Encoders
 * Auto-Encoding Variational Bayes
 * Stochastic Backpropagation and Approximate Inference in Deep Generative Models
+* beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework
 * Categorical Reparameterization with Gumbel-Softmax
 ## Generative Networks; Unconditional GANs
 * Generative Adversarial Nets ([code](https://github.com/goodfeli/adversarial))
