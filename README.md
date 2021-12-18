@@ -305,6 +305,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Bag Of Tricks For Efficient Text Classification ([code](https://github.com/facebookresearch/fastText))
 * Hierarchical Attention Networks for Document Classification
 * Neural Architectures For Named Entity Recognition ([code](https://github.com/glample/tagger)) ([code](https://github.com/clab/stack-lstm-ner))
+* End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF
 * Universal Language Model Fine-tuning for Text Classification ([code](https://nlp.fast.ai/category/classification.html))
 ## Natural Language Processing; Neural Machine Translation
 * Neural Machine Translation by Jointly Learning to Align and Translate
