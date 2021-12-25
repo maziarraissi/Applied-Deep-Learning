@@ -170,6 +170,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Learning a Deep Convolutional Network for Image Super-Resolution ([code](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html))
 * Perceptual Losses for Real-Time Style Transfer and Super-Resolution 
 * Image Style Transfer Using Convolutional Neural Networks ([code](https://github.com/leongatys/PytorchNeuralStyleTransfer))
+* Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization ([code](https://github.com/xunhuang1995/AdaIN-style))
 * Accurate Image Super-Resolution Using Very Deep Convolutional Networks ([code](https://cv.snu.ac.kr/research/VDSR/))
 * Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network
 * Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising ([code](https://github.com/cszn/DnCNN))
