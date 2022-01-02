@@ -305,6 +305,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks ([code](https://github.com/stanfordnlp/treelstm))
 * Bag Of Tricks For Efficient Text Classification ([code](https://github.com/facebookresearch/fastText))
 * Hierarchical Attention Networks for Document Classification
+* Bidirectional LSTM-CRF Models for Sequence Tagging
 * Neural Architectures For Named Entity Recognition ([code](https://github.com/glample/tagger)) ([code](https://github.com/clab/stack-lstm-ner))
 * End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF
 * Universal Language Model Fine-tuning for Text Classification ([code](https://nlp.fast.ai/category/classification.html))
