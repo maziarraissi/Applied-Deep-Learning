@@ -105,6 +105,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * MobileNetV2: Inverted Residuals and Linear Bottlenecks ([code](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet))
 * ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices ([code](https://github.com/megvii-model/ShuffleNet-Series))
 * ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
+* CSPNet: A New Backbone that can Enhance Learning Capability of CNN ([code](https://github.com/WongKinYiu/CrossStagePartialNetworks)) ([code](https://github.com/AlexeyAB/darknet))
 ## Computer Vision; Image Classification; AutoML
 * Neural Architecture Search With Reinforcement Learning ([code](https://github.com/tensorflow/models))
 * Learning Transferable Architectures for Scalable Image Recognition 
