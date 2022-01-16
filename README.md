@@ -122,6 +122,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 ## Computer Vision; Image Classification; Robustness
 * Intriguing properties of neural networks
 * Explaining and harnessing adversarial examples
+* Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
 * Adversarial Examples in the Physical World
 * The Limitations of Deep Learning in Adversarial Settings
 * Practical Black-Box Attacks against Machine Learning
