@@ -94,6 +94,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale ([code](https://github.com/google-research/vision_transformer))
 * MLP-Mixer: An all-MLP Architecture for Vision ([code](https://github.com/google-research/vision_transformer))
 * High-Performance Large-Scale Image Recognition Without Normalization ([code](https://github.com/deepmind/deepmind-research/tree/master/nfnets))
+* A ConvNet for the 2020s ([code](https://github.com/facebookresearch/ConvNeXt))
 ## Computer Vision; Image Classification; Small Networks
 * Distilling the Knowledge in a Neural Network
 * Learning both Weights and Connections for Efficient Neural Networks
