@@ -74,6 +74,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Training Very Deep Networks
 * Deep Residual Learning for Image Recognition ([code](https://github.com/KaimingHe/deep-residual-networks))
 * Identity Mappings in Deep Residual Networks ([code](https://github.com/KaimingHe/resnet-1k-layers))
+* Deep Networks with Stochastic Depth ([code](https://github.com/yueatsprograms/Stochastic_Depth))
 * Wide Residual Networks ([code](https://github.com/szagoruyko/wide-residual-networks))
 * Aggregated Residual Transformations for Deep Neural Networks ([code](https://github.com/facebookresearch/ResNeXt))
 * Densely Connected Convolutional Networks ([code](https://github.com/liuzhuang13/DenseNet))
