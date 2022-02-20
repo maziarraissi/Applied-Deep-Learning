@@ -350,6 +350,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks ([code](https://github.com/UKPLab/sentence-transformers))
 * Language Models are Few-Shot Learners ([code](https://github.com/openai/gpt-3))
 * ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators ([code](https://github.com/google-research/electra))
+* SimCSE: Simple Contrastive Learning of Sentence Embeddings ([code](https://github.com/princeton-nlp/SimCSE))
 * Pay Attention to MLPs
 * Evaluating Large Language Models Trained on Code ([code](https://github.com/openai/human-eval))
 ## Multimodal Learning
