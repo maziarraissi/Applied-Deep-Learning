@@ -353,6 +353,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * SimCSE: Simple Contrastive Learning of Sentence Embeddings ([code](https://github.com/princeton-nlp/SimCSE))
 * Pay Attention to MLPs
 * Evaluating Large Language Models Trained on Code ([code](https://github.com/openai/human-eval))
+* The Curious Case of Neural Text Degeneration ([code](https://github.com/ari-holtzman/degen))
 ## Multimodal Learning
 * Long-term Recurrent Convolutional Networks for Visual Recognition and Description
 * Show and Tell: A Neural Image Caption Generator
