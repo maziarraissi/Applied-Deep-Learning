@@ -293,6 +293,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning ([code](https://github.com/deepmind/deepmind-research/tree/master/byol))
 * Unsupervised Learning of Visual Features by Contrasting Cluster Assignments ([code](https://github.com/facebookresearch/swav))
 * BEIT: BERT Pre-Training of Image Transformers ([code](https://github.com/microsoft/unilm/tree/master/beit))
+* VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning ([code](https://github.com/facebookresearch/vicreg))
 ## Natural Language Processing; Word Representations
 * Linguistic Regularities in Continuous Space Word Representations
 * Distributed Representations of Words and Phrases and their Compositionality
