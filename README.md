@@ -292,6 +292,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Big Self-Supervised Models are Strong Semi-Supervised Learners ([code](https://github.com/google-research/simclr)) ([data](https://www.tensorflow.org/datasets/catalog/imagenet2012_subset))
 * Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning ([code](https://github.com/deepmind/deepmind-research/tree/master/byol))
 * Unsupervised Learning of Visual Features by Contrasting Cluster Assignments ([code](https://github.com/facebookresearch/swav))
+* Exploring Simple Siamese Representation Learning ([code](https://github.com/facebookresearch/simsiam))
 * BEIT: BERT Pre-Training of Image Transformers ([code](https://github.com/microsoft/unilm/tree/master/beit))
 * VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning ([code](https://github.com/facebookresearch/vicreg))
 * DiT: Self-supervised Pre-training for Document Image Transformer ([code](https://github.com/microsoft/unilm/tree/master/dit)) ([code](https://github.com/lucidrains/DALLE-pytorch))
