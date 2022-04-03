@@ -421,6 +421,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Representation Learning with Contrastive Predictive Coding
 * wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations ([code](https://github.com/pytorch/fairseq))
 * data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language ([code](https://github.com/pytorch/fairseq/tree/main/examples/data2vec))
+* Generative Spoken Dialogue Language Modeling ([code](https://speechbot.github.io/dgslm/)) ([code](https://gitlab.nrp-nautilus.io/ar-noc/nemo/blob/master/scripts/process_fisher_data.py)) ([code](https://github.com/pyannote/pyannote-audio))
 ## Reinforcement Learning; Games
 * Playing Atari with Deep Reinforcement Learning
 * Human-level Control through Deep Reinforcement Learning
