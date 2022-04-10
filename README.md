@@ -417,6 +417,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Generating Sequences With Recurrent Neural Networks
 * Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling ([code](https://github.com/jych/librnn))
 * WaveNet: A Generative Model for Raw Audio
+* HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis ([code](https://jik876.github.io/hifi-gan-demo/)) ([code](https://github.com/jik876/hifi-gan)) ([code](https://github.com/r9y9/wavenet_vocoder/)) ([code](https://github.com/NVIDIA/waveglow)) ([code](https://github.com/descriptinc/melgan-neurips)) ([code](https://github.com/NVIDIA/tacotron2))
 ## Speech & Music; Modeling
 * Representation Learning with Contrastive Predictive Coding
 * wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations ([code](https://github.com/pytorch/fairseq))
