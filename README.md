@@ -126,6 +126,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Intriguing properties of neural networks
 * Explaining and harnessing adversarial examples
 * Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+* DeepFool: a simple and accurate method to fool deep neural networks ([code](https://github.com/lts4/deepfool))
 * Adversarial Examples in the Physical World
 * The Limitations of Deep Learning in Adversarial Settings
 * Practical Black-Box Attacks against Machine Learning
