@@ -297,6 +297,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * BEIT: BERT Pre-Training of Image Transformers ([code](https://github.com/microsoft/unilm/tree/master/beit))
 * VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning ([code](https://github.com/facebookresearch/vicreg))
 * DiT: Self-supervised Pre-training for Document Image Transformer ([code](https://github.com/microsoft/unilm/tree/master/dit)) ([code](https://github.com/lucidrains/DALLE-pytorch))
+* Unsupervised Semantic Segmentation By Distilling Feature Correspondences ([code](https://github.com/mhamilton723/STEGO))
 ## Natural Language Processing; Word Representations
 * Linguistic Regularities in Continuous Space Word Representations
 * Distributed Representations of Words and Phrases and their Compositionality
