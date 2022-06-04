@@ -23,7 +23,7 @@ This is a two-semester-long course primarily designed for graduate students. How
   * Object Detection
     * Two Stage Detectors ([Lecture Notes](01%20-%20Computer%20Vision/03%20-%20Object%20Detection/01%20-%20Two%20Stage%20Detectors.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNm18TPHIYm3t2CLIqxLxzYD))
     * One Stage Detectors ([Lecture Notes](01%20-%20Computer%20Vision/03%20-%20Object%20Detection/02%20-%20One%20Stage%20Detectors.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlDc-55lDiKpBb5wUZ_oHqO))
-  * Face Recognition and Detection ([Lecture Notes](01%20-%20Computer%20Vision/04%20-%20Face%20Recognition%20and%20Detection.pdf))
+  * Face Recognition and Detection ([Lecture Notes](01%20-%20Computer%20Vision/04%20-%20Face%20Recognition%20and%20Detection.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnnBrqy4cJSZ3NX3rhvcJxi))
   * Video ([Lecture Notes](01%20-%20Computer%20Vision/05%20-%20Video.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkvCOt7-WCh0xEBICaqHo6Y))
   * 3D ([Lecture Notes](01%20-%20Computer%20Vision/06%20-%203D.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNmvjhZTBWfyMuFggNKkIYKa))
   * Advanced Topics
