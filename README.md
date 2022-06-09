@@ -43,7 +43,7 @@ This is a two-semester-long course primarily designed for graduate students. How
   * Domain Adaptation ([Lecture Notes](05%20-%20Advanced%20Topics/01%20-%20Domain%20Adaptation.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNmk1fcAYTQ1ps-GPkFmKA1-))
   * Few Shot Learning ([Lecture Notes](05%20-%20Advanced%20Topics/02%20-%20Few%20Shot%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkw8PX3mgEyXLLLOKZ5j-ia))
   * Federated Learning ([Lecture Notes](05%20-%20Advanced%20Topics/03%20-%20Federated%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNmPnHffTFkPpbCJWpzpm4ln))
-  * Semi-Supervised Learning ([Lecture Notes](05%20-%20Advanced%20Topics/04%20-%20Semi-Supervised%20Learning.pdf))
+  * Semi-Supervised Learning ([Lecture Notes](05%20-%20Advanced%20Topics/04%20-%20Semi-Supervised%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNn_t0-6tffb2ocSpsZOit8Y))
   * Self-Supervised Learning ([Lecture Notes](05%20-%20Advanced%20Topics/05%20-%20Self-Supervised%20Learning.pdf))
 * Speech & Music ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkL5fCXx50MN6nwWvsJgio6))
   * Recognition ([Lecture Notes](06%20-%20Speech%20%26%20Music/01%20-%20Recognition.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlQpbAJHTQSSym1Gw9mWNV3))
