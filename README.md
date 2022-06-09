@@ -42,7 +42,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Advanced Topics
   * Domain Adaptation ([Lecture Notes](05%20-%20Advanced%20Topics/01%20-%20Domain%20Adaptation.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNmk1fcAYTQ1ps-GPkFmKA1-))
   * Few Shot Learning ([Lecture Notes](05%20-%20Advanced%20Topics/02%20-%20Few%20Shot%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkw8PX3mgEyXLLLOKZ5j-ia))
-  * Federated Learning ([Lecture Notes](05%20-%20Advanced%20Topics/03%20-%20Federated%20Learning.pdf))
+  * Federated Learning ([Lecture Notes](05%20-%20Advanced%20Topics/03%20-%20Federated%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNmPnHffTFkPpbCJWpzpm4ln))
   * Semi-Supervised Learning ([Lecture Notes](05%20-%20Advanced%20Topics/04%20-%20Semi-Supervised%20Learning.pdf))
   * Self-Supervised Learning ([Lecture Notes](05%20-%20Advanced%20Topics/05%20-%20Self-Supervised%20Learning.pdf))
 * Speech & Music ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkL5fCXx50MN6nwWvsJgio6))
