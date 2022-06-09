@@ -26,12 +26,6 @@ This is a two-semester-long course primarily designed for graduate students. How
   * Face Recognition and Detection ([Lecture Notes](01%20-%20Computer%20Vision/04%20-%20Face%20Recognition%20and%20Detection.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnnBrqy4cJSZ3NX3rhvcJxi))
   * Video ([Lecture Notes](01%20-%20Computer%20Vision/05%20-%20Video.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkvCOt7-WCh0xEBICaqHo6Y))
   * 3D ([Lecture Notes](01%20-%20Computer%20Vision/06%20-%203D.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNmvjhZTBWfyMuFggNKkIYKa))
-  * Advanced Topics
-    * Domain Adaptation ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/01%20-%20Domain%20Adaptation.pdf))
-    * Few Shot Learning ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/02%20-%20Few%20Shot%20Learning.pdf))
-    * Federated Learning ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/03%20-%20Federated%20Learning.pdf))
-    * Semi-Supervised Learning ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/04%20-%20Semi-Supervised%20Learning.pdf))
-    * Self-Supervised Learning ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/05%20-%20Self-Supervised%20Learning.pdf))
 
 ## Part II Topics (Spring Semester)
 
@@ -45,6 +39,12 @@ This is a two-semester-long course primarily designed for graduate students. How
   * Variational Auto-Encoders ([Lecture Notes](04%20-%20Generative%20Networks/01%20-%20Variational%20Auto-Encoders.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlgs3IByUnTIp6T4uk9vlax))
   * Unconditional GANs ([Lecture Notes](04%20-%20Generative%20Networks/02%20-%20Unconditional%20GANs.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnYMbO5DaypRM-AU_nvJgT2))
   * Conditional GANs ([Lecture Notes](04%20-%20Generative%20Networks/03%20-%20Conditional%20GANs.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlIopdozBBp04xPNJspaaqC))
+* Advanced Topics
+    * Domain Adaptation ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/01%20-%20Domain%20Adaptation.pdf))
+    * Few Shot Learning ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/02%20-%20Few%20Shot%20Learning.pdf))
+    * Federated Learning ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/03%20-%20Federated%20Learning.pdf))
+    * Semi-Supervised Learning ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/04%20-%20Semi-Supervised%20Learning.pdf))
+    * Self-Supervised Learning ([Lecture Notes](01%20-%20Computer%20Vision/07%20-%20Advanced%20Topics/05%20-%20Self-Supervised%20Learning.pdf))
 * Speech & Music ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkL5fCXx50MN6nwWvsJgio6))
   * Recognition ([Lecture Notes](05%20-%20Speech%20%26%20Music/01%20-%20Recognition.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlQpbAJHTQSSym1Gw9mWNV3))
   * Synthesis ([Lecture Notes](05%20-%20Speech%20%26%20Music/02%20-%20Synthesis.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNmqXweVixFT2Ux2EzOKZdyS))
