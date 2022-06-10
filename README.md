@@ -55,7 +55,7 @@ This is a two-semester-long course primarily designed for graduate students. How
   * Real Environments ([Lecture Notes](07%20-%20Reinforcement%20Learning/03%20-%20Real%20Environments.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnUOIsvBSVF4smdtoYdBoFw))
   * Uncertainty Quantification & Multitask Learning ([Lecture Notes](07%20-%20Reinforcement%20Learning/04%20-%20Uncertainty%20Quantification%20%26%20Multitask%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNn6xHaaojdUSQCgXwvpyxOD))
 * Graph Neural Networks ([Lecture Notes](08%20-%20Graph%20Neural%20Networks.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnbzENK14asgbwIGmNGvdC_))
-* Recommender Systems ([Lecture Notes](09%20-%20Recommender%20Systems.pdf))
+* Recommender Systems ([Lecture Notes](09%20-%20Recommender%20Systems.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkeu48fSTkHScJaTfn46C_7))
 * Computational Biology ([Lecture Notes](10%20-%20Computational%20Biology.pdf))
 
 # References
