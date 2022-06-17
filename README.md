@@ -260,44 +260,6 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Point Transformer
 * VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
 * NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis ([code](https://github.com/bmild/nerf))
-## Computer Vision; Advanced Topics; Domain Adaptation
-* Learning Transferable Features with Deep Adaptation Networks ([code](https://github.com/thuml/DAN))
-* Domain-Adversarial Training of Neural Networks ([code](https://github.com/ddtm/caffe/tree/grl))
-* Adversarial Discriminative Domain Adaptation
-* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks
-* CyCADA: Cycle-Consistent Adversarial Domain Adaptation ([code](https://github.com/jhoffman/cycada_release))
-## Computer Vision; Advanced Topics; Few-shot Learning
-* Matching Networks for One Shot Learning
-* Prototypical Networks for Few-shot Learning ([code](https://github.com/jakesnell/prototypical-networks))
-* Learning to Compare: Relation Network for Few-Shot Learning
-## Computer Vision; Advanced Topics; Federated Learning
-* Communication-Efficient Learning of Deep Networks from Decentralized Data
-* Federated Learning: Strategies for Improving Communication Efficiency
-* How To Backdoor Federated Learning ([code](https://github.com/ebagdasa/backdoor_federated_learning))
-* Deep Learning with Differential Privacy
-## Computer Vision; Advanced Topics; Semi-Supervised Learning
-* Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning ([code](https://github.com/takerum/vat_tf)) ([code](https://github.com/takerum/vat_chainer))
-* Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results ([code](https://github.com/CuriousAI/mean-teacher))
-* MixMatch: A Holistic Approach to Semi-Supervised Learning ([code](https://github.com/google-research/mixmatch))
-* Self-training with Noisy Student improves ImageNet classification ([code](https://github.com/google-research/noisystudent))
-* FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence ([code](https://github.com/google-research/fixmatch))
-* Training data-efficient image transformers & distillation through attention ([code](https://github.com/facebookresearch/deit)) ([code](https://github.com/rwightman/pytorch-image-models))
-## Computer Vision; Advanced Topics; Self-Supervised Learning
-* Deep Clustering for Unsupervised Learning of Visual Features ([code](https://github.com/facebookresearch/deepcluster))
-* Data-Efficient Image Recognition with Contrastive Predictive Coding
-* Contrastive Multiview Coding ([code](https://github.com/HobbitLong/CMC/))
-* Momentum Contrast for Unsupervised Visual Representation Learning ([code](https://github.com/facebookresearch/moco))
-* Self-Supervised Learning of Pretext-Invariant Representations ([code](https://github.com/facebookresearch/vissl/blob/main/projects/PIRL/README.md))
-* A Simple Framework for Contrastive Learning of Visual Representations ([code](https://github.com/google-research/simclr))
-* Supervised Contrastive Learning ([code](https://github.com/HobbitLong/SupContrast)) ([code](https://github.com/google-research/google-research/tree/master/supcon))
-* Big Self-Supervised Models are Strong Semi-Supervised Learners ([code](https://github.com/google-research/simclr)) ([data](https://www.tensorflow.org/datasets/catalog/imagenet2012_subset))
-* Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning ([code](https://github.com/deepmind/deepmind-research/tree/master/byol))
-* Unsupervised Learning of Visual Features by Contrasting Cluster Assignments ([code](https://github.com/facebookresearch/swav))
-* Exploring Simple Siamese Representation Learning ([code](https://github.com/facebookresearch/simsiam))
-* BEIT: BERT Pre-Training of Image Transformers ([code](https://github.com/microsoft/unilm/tree/master/beit))
-* VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning ([code](https://github.com/facebookresearch/vicreg))
-* DiT: Self-supervised Pre-training for Document Image Transformer ([code](https://github.com/microsoft/unilm/tree/master/dit)) ([code](https://github.com/lucidrains/DALLE-pytorch))
-* Unsupervised Semantic Segmentation By Distilling Feature Correspondences ([code](https://github.com/mhamilton723/STEGO))
 ## Natural Language Processing; Word Representations
 * Linguistic Regularities in Continuous Space Word Representations
 * Distributed Representations of Words and Phrases and their Compositionality
@@ -404,6 +366,44 @@ This is a two-semester-long course primarily designed for graduate students. How
 * High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs ([code](https://github.com/NVIDIA/pix2pixHD))
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation ([code](https://github.com/yunjey/stargan))
 * Semantic Image Synthesis with Spatially-Adaptive Normalization ([code](https://github.com/NVlabs/SPADE))
+## Advanced Topics; Domain Adaptation
+* Learning Transferable Features with Deep Adaptation Networks ([code](https://github.com/thuml/DAN))
+* Domain-Adversarial Training of Neural Networks ([code](https://github.com/ddtm/caffe/tree/grl))
+* Adversarial Discriminative Domain Adaptation
+* Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks
+* CyCADA: Cycle-Consistent Adversarial Domain Adaptation ([code](https://github.com/jhoffman/cycada_release))
+## Advanced Topics; Few-shot Learning
+* Matching Networks for One Shot Learning
+* Prototypical Networks for Few-shot Learning ([code](https://github.com/jakesnell/prototypical-networks))
+* Learning to Compare: Relation Network for Few-Shot Learning
+## Advanced Topics; Federated Learning
+* Communication-Efficient Learning of Deep Networks from Decentralized Data
+* Federated Learning: Strategies for Improving Communication Efficiency
+* How To Backdoor Federated Learning ([code](https://github.com/ebagdasa/backdoor_federated_learning))
+* Deep Learning with Differential Privacy
+## Advanced Topics; Semi-Supervised Learning
+* Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning ([code](https://github.com/takerum/vat_tf)) ([code](https://github.com/takerum/vat_chainer))
+* Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results ([code](https://github.com/CuriousAI/mean-teacher))
+* MixMatch: A Holistic Approach to Semi-Supervised Learning ([code](https://github.com/google-research/mixmatch))
+* Self-training with Noisy Student improves ImageNet classification ([code](https://github.com/google-research/noisystudent))
+* FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence ([code](https://github.com/google-research/fixmatch))
+* Training data-efficient image transformers & distillation through attention ([code](https://github.com/facebookresearch/deit)) ([code](https://github.com/rwightman/pytorch-image-models))
+## Advanced Topics; Self-Supervised Learning
+* Deep Clustering for Unsupervised Learning of Visual Features ([code](https://github.com/facebookresearch/deepcluster))
+* Data-Efficient Image Recognition with Contrastive Predictive Coding
+* Contrastive Multiview Coding ([code](https://github.com/HobbitLong/CMC/))
+* Momentum Contrast for Unsupervised Visual Representation Learning ([code](https://github.com/facebookresearch/moco))
+* Self-Supervised Learning of Pretext-Invariant Representations ([code](https://github.com/facebookresearch/vissl/blob/main/projects/PIRL/README.md))
+* A Simple Framework for Contrastive Learning of Visual Representations ([code](https://github.com/google-research/simclr))
+* Supervised Contrastive Learning ([code](https://github.com/HobbitLong/SupContrast)) ([code](https://github.com/google-research/google-research/tree/master/supcon))
+* Big Self-Supervised Models are Strong Semi-Supervised Learners ([code](https://github.com/google-research/simclr)) ([data](https://www.tensorflow.org/datasets/catalog/imagenet2012_subset))
+* Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning ([code](https://github.com/deepmind/deepmind-research/tree/master/byol))
+* Unsupervised Learning of Visual Features by Contrasting Cluster Assignments ([code](https://github.com/facebookresearch/swav))
+* Exploring Simple Siamese Representation Learning ([code](https://github.com/facebookresearch/simsiam))
+* BEIT: BERT Pre-Training of Image Transformers ([code](https://github.com/microsoft/unilm/tree/master/beit))
+* VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning ([code](https://github.com/facebookresearch/vicreg))
+* DiT: Self-supervised Pre-training for Document Image Transformer ([code](https://github.com/microsoft/unilm/tree/master/dit)) ([code](https://github.com/lucidrains/DALLE-pytorch))
+* Unsupervised Semantic Segmentation By Distilling Feature Correspondences ([code](https://github.com/mhamilton723/STEGO))
 ## Speech & Music; Recognition
 * Mel-Spectrogram and Mel-Frequency Cepstral Coefficients (MFCCs)
 * Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks
