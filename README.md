@@ -39,6 +39,7 @@ This is a two-semester-long course primarily designed for graduate students. How
   * Variational Auto-Encoders ([Lecture Notes](04%20-%20Generative%20Networks/01%20-%20Variational%20Auto-Encoders.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlgs3IByUnTIp6T4uk9vlax))
   * Unconditional GANs ([Lecture Notes](04%20-%20Generative%20Networks/02%20-%20Unconditional%20GANs.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNnYMbO5DaypRM-AU_nvJgT2))
   * Conditional GANs ([Lecture Notes](04%20-%20Generative%20Networks/03%20-%20Conditional%20GANs.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNlIopdozBBp04xPNJspaaqC))
+  * Diffusion Models ([Lecture Notes](04%20-%20Generative%20Networks/04%20-%20Diffusion%20Models.pdf))
 * Advanced Topics
   * Domain Adaptation ([Lecture Notes](05%20-%20Advanced%20Topics/01%20-%20Domain%20Adaptation.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNmk1fcAYTQ1ps-GPkFmKA1-))
   * Few Shot Learning ([Lecture Notes](05%20-%20Advanced%20Topics/02%20-%20Few%20Shot%20Learning.pdf)) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNkw8PX3mgEyXLLLOKZ5j-ia))
@@ -366,6 +367,8 @@ This is a two-semester-long course primarily designed for graduate students. How
 * High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs ([code](https://github.com/NVIDIA/pix2pixHD))
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation ([code](https://github.com/yunjey/stargan))
 * Semantic Image Synthesis with Spatially-Adaptive Normalization ([code](https://github.com/NVlabs/SPADE))
+## Generative Networks; Diffusion Models
+* Denoising diffusion probabilistic models ([code](https://github.com/hojonathanho/diffusion))
 ## Advanced Topics; Domain Adaptation
 * Learning Transferable Features with Deep Adaptation Networks ([code](https://github.com/thuml/DAN))
 * Domain-Adversarial Training of Neural Networks ([code](https://github.com/ddtm/caffe/tree/grl))
