@@ -368,7 +368,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation ([code](https://github.com/yunjey/stargan))
 * Semantic Image Synthesis with Spatially-Adaptive Normalization ([code](https://github.com/NVlabs/SPADE))
 ## Generative Networks; Diffusion Models
-* Denoising diffusion probabilistic models ([code](https://github.com/hojonathanho/diffusion))
+* Denoising Diffusion Probabilistic Models ([code](https://github.com/hojonathanho/diffusion))
 ## Advanced Topics; Domain Adaptation
 * Learning Transferable Features with Deep Adaptation Networks ([code](https://github.com/thuml/DAN))
 * Domain-Adversarial Training of Neural Networks ([code](https://github.com/ddtm/caffe/tree/grl))
