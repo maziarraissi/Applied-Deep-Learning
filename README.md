@@ -369,6 +369,7 @@ This is a two-semester-long course primarily designed for graduate students. How
 * Semantic Image Synthesis with Spatially-Adaptive Normalization ([code](https://github.com/NVlabs/SPADE))
 ## Generative Networks; Diffusion Models
 * Denoising Diffusion Probabilistic Models ([code](https://github.com/hojonathanho/diffusion))
+* Diffusion Models Beat GANs on Image Synthesis ([code](https://github.com/openai/guided-diffusion))
 ## Advanced Topics; Domain Adaptation
 * Learning Transferable Features with Deep Adaptation Networks ([code](https://github.com/thuml/DAN))
 * Domain-Adversarial Training of Neural Networks ([code](https://github.com/ddtm/caffe/tree/grl))
