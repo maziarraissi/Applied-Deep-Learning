@@ -1,5 +1,7 @@
 # [Applied Deep Learning](https://arxiv.org/pdf/2301.11316.pdf) ([YouTube Playlist](https://www.youtube.com/playlist?list=PLoEMreTa9CNmuxQeIKWaz7AVFd_ZeAcy4))
 
+![ML Engine](engine.png?raw=true)
+
     @article{raissi2023open,
       title={Open Problems in Applied Deep Learning},
       author={Raissi, Maziar},
